@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: bardionson/bardionson-website # Path to your GitHub repository
+  branch: main # Branch to update
+  
+# Optional: enable local development
+local_backend: true
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "src/content/articles"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "exhibitions"
+    label: "Exhibitions"
+    folder: "src/content/exhibitions"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Date String (e.g. October 16 – 19, 2025)", name: "date", widget: "string"}
+      - {label: "Type (e.g. Solo Exhibition, Group Show)", name: "type", widget: "string"}
+      - {label: "Link (Optional)", name: "link", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "text"}
+      
+  - name: "cv_entries"
+    label: "CV Entries"
+    folder: "src/content/cv"
+    create: true
+    fields:
+      - {label: "Section Title (e.g. Platforms, Projects)", name: "section", widget: "string"}
+      - {label: "Entry Name", name: "title", widget: "string"}
+      - {label: "Details", name: "details", widget: "text"}
