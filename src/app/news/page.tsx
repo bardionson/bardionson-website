@@ -1,13 +1,12 @@
 import Link from "next/link";
-import articles from "@/data/articles.json";
+import { getAllArticles } from "@/lib/markdown";
 
 export default function NewsPage() {
-    // Sort articles by date descending (newest first)
-    const sorted = [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    const articles = getAllArticles();
 
     // Group by year
     const grouped: Record<string, typeof articles> = {};
-    sorted.forEach(article => {
+    articles.forEach(article => {
         const year = new Date(article.date).getFullYear().toString();
         if (!grouped[year]) grouped[year] = [];
         grouped[year].push(article);
@@ -28,11 +27,9 @@ export default function NewsPage() {
                         <h2 className="text-3xl font-bold mb-8 text-primary/80 border-b border-white/10 pb-4">{year}</h2>
                         <div className="space-y-4">
                             {posts.map((article, i) => (
-                                <a
+                                <Link
                                     key={i}
-                                    href={article.url}
-                                    target="_blank"
-                                    rel="noreferrer"
+                                    href={`/news/${article.slug}`}
                                     className="block glassmorphism rounded-2xl p-6 hover:border-primary/30 transition-all group"
                                 >
                                     <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2 mb-2">
@@ -47,7 +44,7 @@ export default function NewsPage() {
                                     <span className="inline-flex items-center text-primary text-sm mt-3 group-hover:text-white transition-colors">
                                         Read Article →
                                     </span>
-                                </a>
+                                </Link>
                             ))}
                         </div>
                     </div>
