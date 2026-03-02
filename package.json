@@ -12,6 +12,7 @@
     "@rabby-wallet/rabbykit": "^0.1.4",
     "@tailwindcss/typography": "^0.5.19",
     "@tanstack/react-query": "^5.90.21",
+    "@vercel/blob": "^2.3.0",
     "@wagmi/core": "^2.22.1",
     "alchemy-sdk": "^3.6.5",
     "axios": "^1.13.6",
