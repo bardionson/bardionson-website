@@ -74,10 +74,15 @@ export default function PortfolioPage() {
                 <h1 className="text-5xl md:text-6xl font-bold tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-primary to-white">
                     Portfolio
                 </h1>
-                <p className="text-xl text-white/70 mb-16 font-light max-w-3xl">
-                    A curated selection of works exploring the intersection of artificial intelligence,
-                    blockchain technology, and the nature of simulated reality.
-                </p>
+                <div className="flex flex-col sm:flex-row items-center justify-between gap-6 mb-16">
+                    <p className="text-xl text-white/70 font-light max-w-2xl">
+                        A curated selection of works exploring the intersection of artificial intelligence,
+                        blockchain technology, and the nature of simulated reality.
+                    </p>
+                    <Link href="/cv" className="glassmorphism hover:bg-white/10 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105 inline-flex items-center gap-2 whitespace-nowrap">
+                        View Full CV &amp; Exhibitions →
+                    </Link>
+                </div>
 
                 <div className="grid gap-8">
                     {works.map((work, i) => (
