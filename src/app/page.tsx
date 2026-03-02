@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="/images/art/bone-flag.jpg"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bone-flag.jpg"
           alt="Vanishing Of The Genuine: Bone Flag by Bård Ionson"
           fill
           className="object-cover opacity-30"
@@ -61,15 +61,15 @@ export default function Home() {
 
         <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
           {[
-            { src: "/images/art/bone-flag.jpg", title: "Vanishing Of The Genuine: Bone Flag", year: "2024", width: 2048, height: 1152 },
-            { src: "/images/art/color-magic-planets.png", title: "Color Magic Planets", year: "2022", width: 1536, height: 1536 },
-            { src: "/images/art/desolation-of-empire.jpg", title: "Desolation Of Empire", year: "2024", width: 1024, height: 1024 },
-            { src: "/images/art/naked-flames.jpg", title: "Naked Flames", year: "2024", width: 600, height: 338 },
-            { src: "/images/art/nudes-at-the-beach.jpg", title: "Nudes At The Beach", year: "2019", width: 1000, height: 1000 },
-            { src: "/images/art/redwood-forest.jpg", title: "From The Redwood Forest", year: "2022", width: 576, height: 1024 },
-            { src: "/images/art/sg3-seed.png", title: "Painting With Fire", year: "2023", width: 1024, height: 1024 },
-            { src: "/images/art/bones-in-the-sky.png", title: "Bones In The Sky", year: "2025", width: 930, height: 620 },
-            { src: "/images/art/signed.jpg", title: "Signed Edition", year: "2025", width: 1024, height: 1024 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bone-flag.jpg", title: "Vanishing Of The Genuine: Bone Flag", year: "2024", width: 2048, height: 1152 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/color-magic-planets.png", title: "Color Magic Planets", year: "2022", width: 1536, height: 1536 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/desolation-of-empire.jpg", title: "Desolation Of Empire", year: "2024", width: 1024, height: 1024 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/naked-flames.jpg", title: "Naked Flames", year: "2024", width: 600, height: 338 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/nudes-at-the-beach.jpg", title: "Nudes At The Beach", year: "2019", width: 1000, height: 1000 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/redwood-forest.jpg", title: "From The Redwood Forest", year: "2022", width: 576, height: 1024 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/sg3-seed.png", title: "Painting With Fire", year: "2023", width: 1024, height: 1024 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png", title: "Bones In The Sky", year: "2025", width: 930, height: 620 },
+            { src: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/signed.jpg", title: "Signed Edition", year: "2025", width: 1024, height: 1024 },
           ].map((work, i) => (
             <div key={i} className="group relative overflow-hidden rounded-2xl glassmorphism hover:border-primary/30 transition-all break-inside-avoid">
               <Image
@@ -124,7 +124,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="glassmorphism rounded-2xl overflow-hidden group cursor-pointer hover:border-primary/50 transition-colors">
             <div className="relative aspect-video">
-              <Image src="/images/art/bones-in-the-sky.png" alt="Bones In The Sky" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+              <Image src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png" alt="Bones In The Sky" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">Bones In The Sky — Marfa</h3>
@@ -134,7 +134,7 @@ export default function Home() {
           </div>
           <div className="glassmorphism rounded-2xl overflow-hidden group cursor-pointer hover:border-primary/50 transition-colors">
             <div className="relative aspect-video">
-              <Image src="/images/art/bone-flag.jpg" alt="ABS Digital Art Prize" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+              <Image src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bone-flag.jpg" alt="ABS Digital Art Prize" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">ABS Digital Art Prize</h3>
@@ -144,7 +144,7 @@ export default function Home() {
           </div>
           <div className="glassmorphism rounded-2xl overflow-hidden group cursor-pointer hover:border-primary/50 transition-colors">
             <div className="relative aspect-video">
-              <Image src="/images/art/naked-flames.jpg" alt="REIMAGINE TOMORROW" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+              <Image src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/naked-flames.jpg" alt="REIMAGINE TOMORROW" fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">REIMAGINE TOMORROW</h3>

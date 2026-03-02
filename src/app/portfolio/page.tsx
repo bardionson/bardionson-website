@@ -22,7 +22,7 @@ export default function PortfolioPage() {
             description: "A seminal piece of generative art exploring numerical symbolism and mathematical beauty through code. Released on ArtBlocks.",
             link: "https://www.artblocks.io/collection/8-by-bard-ionson",
             platform: "Art Blocks",
-            // No direct image for 'The 8' in images/art, using a generic fallback or omitting
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/eight-41000017-1024x1024.webp"
         },
         {
             title: "Naked Flames",
@@ -57,12 +57,14 @@ export default function PortfolioPage() {
             description: "Created in 2019. Displayed and donated to Oxford University's Weston Library as part of the Alphabets Alive! exhibition — the first NFT in the library's collection.",
             link: "https://codex-viewer.com/record/3010",
             platform: "Codex Protocol",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/battledore.webp"
         },
         {
             title: "Future Is Where East And West Touch",
             description: "One of ten finalists for the NFT Art Prize 2023 sponsored by Arab Bank Switzerland. This is artificial intelligence art composed from the ideas and words of the artist which an AI model generated, then edited by the artist.",
             link: "https://artbyarabbank.ch/en/nft-art-prize/about-the-prize/",
             platform: "NFT Art Prize",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/FutureEastWestTouchSm.webp"
         },
     ];
 
