@@ -18,8 +18,8 @@ export default function PortfolioPage() {
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/color-magic-planets.png"
         },
         {
-            title: "The 8",
-            description: "A seminal piece of generative art exploring numerical symbolism and mathematical beauty through code. Released on ArtBlocks.",
+            title: "The 8 (Art Blocks)",
+            description: "A seminal piece of generative art exploring numerical symbolism and mathematical beauty through code. View the collection on ArtBlocks.",
             link: "https://www.artblocks.io/collection/8-by-bard-ionson",
             platform: "Art Blocks",
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/eight-41000017-1024x1024.webp"
@@ -39,7 +39,7 @@ export default function PortfolioPage() {
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/redwood-forest.jpg"
         },
         {
-            title: "SAGE Anomaly",
+            title: "SAGE Anomaly (Async Art)",
             description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
             link: "http://sageanomaly.com",
             platform: "AsyncArt",
@@ -66,6 +66,48 @@ export default function PortfolioPage() {
             platform: "NFT Art Prize",
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/FutureEastWestTouchSm.webp"
         },
+        {
+            title: "Scanning the Scanner",
+            description: "A generative exploration where the physical device capturing reality is turned upon itself to recursively distort and create. By pulling the light back into the lens block block by block, an infinite feedback loop forms.",
+            link: "/projects/scan",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/scan-internet-dweller.jpg"
+        },
+        {
+            title: "Sound Words Poetry Art",
+            description: "The poetry and visual performance of the digital soul. Audio waves and words combine to visualize the invisible frequencies between meaning and sound.",
+            link: "/projects/soundwords",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/sound-words.jpg"
+        },
+        {
+            title: "Color Magic Planets (Project Detail)",
+            description: "An in-depth look at the process and philosophy behind the creation of the Color Magic Planets collection. Understanding the math behind the atmosphere.",
+            link: "/projects/color-magic",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/color-magic-planets.png"
+        },
+        {
+            title: "Painting With Fire: A History in GANs",
+            description: "An odyssey of the Generative Adversarial Network. Bård explores the nature of AI and GAN in the metaphor of fire. The neural network learns the form of the flame.",
+            link: "/projects/painting-with-fire",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/painting-with-fire-NeuralDreamMap.jpg"
+        },
+        {
+            title: "SAGE Anomaly",
+            description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
+            link: "/projects/sage-anomaly",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/desolation-of-empire.jpg"
+        },
+        {
+            title: "The 8",
+            description: "A seminal piece of generative art exploring numerical symbolism and mathematical beauty through code. Released on ArtBlocks.",
+            link: "/projects/eight",
+            platform: "Project",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/eight-41000017-1024x1024.webp"
+        }
     ];
 
     return (

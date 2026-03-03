@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
+import { getAllExhibitions } from "@/lib/exhibitions";
 
 export default function ExhibitionsPage() {
-    const exhibitions = [
+    const modernExhibitions = [
         {
             title: "Bones In The Sky — Marfa",
             date: "October 16 – 19, 2025",
@@ -58,6 +59,36 @@ export default function ExhibitionsPage() {
         },
     ];
 
+    type Exhibition = {
+        title: string;
+        date: string;
+        venue?: string;
+        description: string;
+        link?: string;
+        image?: string;
+        isHistoric?: boolean;
+        year?: string;
+        slug?: string;
+    };
+
+    const historicExhibitions = getAllExhibitions();
+
+    // Combine modern and historic
+    const exhibitions: Exhibition[] = [
+        ...modernExhibitions,
+        ...historicExhibitions.map(ex => ({
+            title: ex.title,
+            date: ex.year,
+            year: ex.year,
+            venue: ex.venue || 'Historic Exhibition',
+            description: ex.content.substring(0, 150) + (ex.content.length > 150 ? '...' : ''), // Generate excerpt
+            link: `/exhibitions/${ex.slug}`,
+            image: ex.image || undefined,
+            isHistoric: true,
+            slug: ex.slug
+        }))
+    ];
+
     return (
         <div className="container mx-auto px-4 py-20 animate-in fade-in slide-in-from-bottom-8 duration-1000">
             <div className="max-w-4xl mx-auto">
@@ -79,7 +110,7 @@ export default function ExhibitionsPage() {
                                 <div className="absolute left-2.5 md:left-6.5 top-2 w-3 h-3 rounded-full bg-primary/50 border-2 border-primary group-hover:bg-primary group-hover:shadow-[0_0_12px_rgba(129,140,248,0.5)] transition-all" />
 
                                 <div className="glassmorphism rounded-2xl p-6 md:p-8 hover:border-primary/30 transition-all flex flex-col md:flex-row gap-6 items-start">
-                                    {ex.image && (
+                                    {ex.image ? (
                                         <div className="w-full md:w-1/3 aspect-video md:aspect-square bg-white/5 rounded-xl overflow-hidden relative shrink-0">
                                             <Image
                                                 src={ex.image}
@@ -89,19 +120,34 @@ export default function ExhibitionsPage() {
                                                 sizes="(max-width: 768px) 100vw, 33vw"
                                             />
                                         </div>
+                                    ) : (
+                                        ex.isHistoric && (
+                                            <div className="w-full md:w-1/3 aspect-video md:aspect-square bg-neutral-900 rounded-xl overflow-hidden relative shrink-0 flex items-center justify-center border border-white/5">
+                                                <span className="text-white/20 font-serif italic text-lg opacity-50 border-y border-white/20 py-2 uppercase tracking-[0.2em] w-full text-center">Archive</span>
+                                            </div>
+                                        )
                                     )}
                                     <div className="flex-1">
-                                        <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2 mb-4">
-                                            <h2 className="text-2xl font-bold group-hover:text-primary transition-colors">{ex.title}</h2>
-                                            <span className="text-sm text-white/40 whitespace-nowrap">{ex.date}</span>
+                                        <div className="flex flex-col md:items-start justify-between gap-2 mb-4">
+                                            <h2 className="text-2xl font-bold group-hover:text-primary transition-colors pr-4">{ex.title}</h2>
+                                            <span className="text-sm text-primary/80 whitespace-nowrap">{ex.date}</span>
                                         </div>
-                                        <p className="text-sm text-primary/80 mb-3">{ex.venue}</p>
+                                        {!ex.isHistoric && <p className="text-sm text-primary/80 mb-3">{ex.venue}</p>}
                                         <p className="text-white/60 leading-relaxed mb-4">{ex.description}</p>
-                                        {ex.link && (
-                                            <a href={ex.link} target="_blank" rel="noreferrer" className="inline-flex items-center text-primary hover:text-white font-medium text-sm transition-colors">
-                                                View Details →
-                                            </a>
-                                        )}
+
+                                        {/* Dynamic Route vs Traditional External Link routing */}
+                                        {ex.link ? (
+                                            ex.link.startsWith('/') ? (
+                                                <Link href={ex.link} className="inline-flex items-center text-primary hover:text-white font-medium text-sm transition-colors">
+                                                    Read Exhibition Article →
+                                                </Link>
+                                            ) : (
+                                                <a href={ex.link} target="_blank" rel="noreferrer" className="inline-flex items-center text-primary hover:text-white font-medium text-sm transition-colors">
+                                                    Visit External Link ↗
+                                                </a>
+                                            )
+                                        ) : null}
+
                                     </div>
                                 </div>
                             </div>
