@@ -23,12 +23,12 @@ export default function PrimaryMarketPage() {
 
                     <div className="flex flex-col lg:flex-row gap-12 items-center relative z-10">
                         <div className="w-full lg:w-1/2 aspect-[4/3] bg-black/50 rounded-2xl border border-white/5 relative overflow-hidden flex items-center justify-center">
-                            <span className="text-white/20">Image: Bones In The Sky (Genesis)</span>
+                            <img src="/images/projects/sky-bones-000050420055-print-sm-v.jpg" alt="Bones In The Sky" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2s]" />
                         </div>
 
                         <div className="w-full lg:w-1/2 space-y-6">
                             <span className="text-primary font-bold tracking-wider text-sm uppercase">Curated Release</span>
-                            <h2 className="text-4xl font-bold text-white">Bones In The Sky: Genesis</h2>
+                            <h2 className="text-4xl font-bold text-white">Bones In The Sky</h2>
                             <p className="text-white/70 text-lg leading-relaxed">
                                 The foundational piece of the upcoming Marfa and Lisbon exhibitions. This work explores the blending of desert landscapes with the surreal algorithmic interventions of style GANs.
                             </p>

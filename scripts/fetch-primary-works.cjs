@@ -82,6 +82,29 @@ async function run() {
         fs.mkdirSync(dir, { recursive: true });
     }
     
+    // Cross-check with local nfts.json if available to extract images
+    try {
+        const nftsPath = path.join(dir, 'nfts.json');
+        if (fs.existsSync(nftsPath)) {
+            const nftsData = JSON.parse(fs.readFileSync(nftsPath, 'utf8'));
+            const allNfts = [];
+            for (const collection in nftsData) {
+                allNfts.push(...nftsData[collection].nfts);
+            }
+            let matched = 0;
+            for (const work of results) {
+                const match = allNfts.find(n => n.name === work.title || (n.name && n.name.includes(work.title)));
+                if (match) {
+                    work.image = match.display_image_url || match.image_url;
+                    matched++;
+                }
+            }
+            console.log(`Matched ${matched} works with images from nfts.json cache.`);
+        }
+    } catch(e) {
+        console.error('Error matching cached images:', e.message);
+    }
+
     const outPath = path.join(dir, 'primary-works.json');
     fs.writeFileSync(outPath, JSON.stringify(results, null, 2));
     console.log(`Successfully parsed ${results.length} works into src/data/primary-works.json`);
