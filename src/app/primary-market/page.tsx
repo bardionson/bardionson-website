@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+import PrimaryWorksGrid from "@/components/PrimaryWorksGrid";
 
 export default function PrimaryMarketPage() {
     return (
@@ -36,7 +36,7 @@ export default function PrimaryMarketPage() {
                             <div className="pt-4 border-t border-white/10 flex flex-wrap gap-6 items-center">
                                 <div>
                                     <p className="text-sm text-white/50 mb-1">Platform</p>
-                                    <p className="font-bold">SuperRare</p>
+                                    <p className="font-bold">Sky Bones</p>
                                 </div>
                                 <div>
                                     <p className="text-sm text-white/50 mb-1">Edition</p>
@@ -50,38 +50,20 @@ export default function PrimaryMarketPage() {
 
                             <div className="pt-4">
                                 <a
-                                    href="https://superrare.com/bardionson"
+                                    href="https://sky-bones.bardionson.com/marketplace"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-medium transition-colors"
                                 >
-                                    View on SuperRare
+                                    View on Sky Bones
                                 </a>
                             </div>
                         </div>
                     </div>
                 </section>
 
-                {/* Other Platforms Grid */}
-                <h3 className="text-2xl font-bold text-white mb-8 border-b border-white/10 pb-4">Actively Minting On</h3>
-                <div className="grid md:grid-cols-3 gap-8 mb-20">
-                    <a href="https://makersplace.com/bardionson" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-8 hover:border-primary/50 transition-all group text-center flex flex-col items-center">
-                        <h4 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">MakersPlace</h4>
-                        <p className="text-white/60 text-sm mb-4">Focus: California Collection</p>
-                        <span className="text-primary text-sm opacity-0 group-hover:opacity-100 transition-opacity">Explore →</span>
-                    </a>
-
-                    <a href="https://mint.fun/0xB098930981E3b51563A7Bb079b183814B4730dD5" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-8 hover:border-primary/50 transition-all group text-center flex flex-col items-center">
-                        <h4 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">Mint Fun</h4>
-                        <p className="text-white/60 text-sm mb-4">Focus: Anarchy On Chain</p>
-                        <span className="text-primary text-sm opacity-0 group-hover:opacity-100 transition-opacity">Explore →</span>
-                    </a>
-
-                    <a href="https://www.transient.xyz/nfts/ethereum/0x787f1a337ad0a4c5641bbc0b81ceb5123130b771" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-8 hover:border-primary/50 transition-all group text-center flex flex-col items-center">
-                        <h4 className="text-xl font-bold mb-2 group-hover:text-primary transition-colors">Transient.xyz</h4>
-                        <p className="text-white/60 text-sm mb-4">Focus: ABS Digital Art Prize</p>
-                        <span className="text-primary text-sm opacity-0 group-hover:opacity-100 transition-opacity">Explore →</span>
-                    </a>
+                <div className="mb-20">
+                    <PrimaryWorksGrid />
                 </div>
 
                 <div className="text-center pt-8 border-t border-white/10">
