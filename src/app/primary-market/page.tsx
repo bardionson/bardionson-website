@@ -23,7 +23,7 @@ export default function PrimaryMarketPage() {
 
                     <div className="flex flex-col lg:flex-row gap-12 items-center relative z-10">
                         <div className="w-full lg:w-1/2 aspect-[4/3] bg-black/50 rounded-2xl border border-white/5 relative overflow-hidden flex items-center justify-center">
-                            <img src="/images/art/bones-in-the-sky.png" alt="Bones In The Sky" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2s]" />
+                            <img src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png" alt="Bones In The Sky" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2s]" />
                         </div>
 
                         <div className="w-full lg:w-1/2 space-y-6">
