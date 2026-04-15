@@ -71,14 +71,14 @@ export default function PortfolioPage() {
             description: "A generative exploration where the physical device capturing reality is turned upon itself to recursively distort and create. By pulling the light back into the lens block block by block, an infinite feedback loop forms.",
             link: "/projects/scan",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/scan-internet-dweller.jpg"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/scan/internet-dweller.jpg"
         },
         {
             title: "Sound Words Poetry Art",
             description: "The poetry and visual performance of the digital soul. Audio waves and words combine to visualize the invisible frequencies between meaning and sound.",
             link: "/projects/soundwords",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/sound-words.jpg"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/scan/ss-soulwindow.jpg"
         },
         {
             title: "Color Magic Planets (Project Detail)",
@@ -92,7 +92,7 @@ export default function PortfolioPage() {
             description: "An odyssey of the Generative Adversarial Network. Bård explores the nature of AI and GAN in the metaphor of fire. The neural network learns the form of the flame.",
             link: "/projects/painting-with-fire",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/painting-with-fire-NeuralDreamMap.jpg"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/painting-with-fire/NeuralDreamMap.jpg"
         },
         {
             title: "SAGE Anomaly",
