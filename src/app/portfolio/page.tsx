@@ -43,14 +43,14 @@ export default function PortfolioPage() {
             description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
             link: "http://sageanomaly.com",
             platform: "AsyncArt",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/desolation-of-empire.jpg"
+            image: "https://bardionson.com/wp-content/uploads/2021/07/TheHODL-Frame.gif"
         },
         {
             title: "We Are Anarchy On Chain",
             description: "Blockchain art on Ethereum and Bitcoin. Generated from a smart contract and stored on chain forever.",
             link: "https://sansa.xyz/collections/we-are-anarchy-on-chain-by-bard-ionson",
             platform: "Sansa / Mint.fun",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/sg3-seed.png"
+            image: "/images/projects/we-are-anarchy-on-chains-sample0.gif"
         },
         {
             title: "Battledore",
@@ -92,14 +92,14 @@ export default function PortfolioPage() {
             description: "An odyssey of the Generative Adversarial Network. Bård explores the nature of AI and GAN in the metaphor of fire. The neural network learns the form of the flame.",
             link: "/projects/painting-with-fire",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/painting-with-fire/NeuralDreamMap.jpg"
+            image: "/images/projects/painting-with-fire-sg3-seed0498.png"
         },
         {
             title: "SAGE Anomaly",
             description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
             link: "/projects/sage-anomaly",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/desolation-of-empire.jpg"
+            image: "https://bardionson.com/wp-content/uploads/2021/07/TheHODL-Frame.gif"
         },
         {
             title: "The 8",
