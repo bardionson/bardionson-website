@@ -43,14 +43,14 @@ export default function PortfolioPage() {
             description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
             link: "http://sageanomaly.com",
             platform: "AsyncArt",
-            image: "/images/nfts/577b5f942a2c74407f3bba464285526a.png"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/nfts/577b5f942a2c74407f3bba464285526a.png"
         },
         {
             title: "We Are Anarchy On Chain",
             description: "Blockchain art on Ethereum and Bitcoin. Generated from a smart contract and stored on chain forever.",
             link: "https://sansa.xyz/collections/we-are-anarchy-on-chain-by-bard-ionson",
             platform: "Sansa / Mint.fun",
-            image: "/images/nfts/0b4e57b41fc5065bc4a4f4051891d5f6.svg"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/nfts/0b4e57b41fc5065bc4a4f4051891d5f6.svg"
         },
         {
             title: "Battledore",
@@ -78,7 +78,7 @@ export default function PortfolioPage() {
             description: "The poetry and visual performance of the digital soul. Audio waves and words combine to visualize the invisible frequencies between meaning and sound.",
             link: "/projects/soundwords",
             platform: "Project",
-            image: "/images/nfts/c6bad476235bec7cbb991a338a3b2c6f.gif"
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/nfts/c6bad476235bec7cbb991a338a3b2c6f.gif"
         },
         {
             title: "Color Magic Planets (Project Detail)",
