@@ -43,14 +43,14 @@ export default function PortfolioPage() {
             description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
             link: "http://sageanomaly.com",
             platform: "AsyncArt",
-            image: "https://bardionson.com/wp-content/uploads/2021/07/TheHODL-Frame.gif"
+            image: "/images/nfts/577b5f942a2c74407f3bba464285526a.png"
         },
         {
             title: "We Are Anarchy On Chain",
             description: "Blockchain art on Ethereum and Bitcoin. Generated from a smart contract and stored on chain forever.",
             link: "https://sansa.xyz/collections/we-are-anarchy-on-chain-by-bard-ionson",
             platform: "Sansa / Mint.fun",
-            image: "/images/projects/we-are-anarchy-on-chains-sample0.gif"
+            image: "/images/nfts/0b4e57b41fc5065bc4a4f4051891d5f6.svg"
         },
         {
             title: "Battledore",
@@ -78,7 +78,7 @@ export default function PortfolioPage() {
             description: "The poetry and visual performance of the digital soul. Audio waves and words combine to visualize the invisible frequencies between meaning and sound.",
             link: "/projects/soundwords",
             platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/scan/ss-soulwindow.jpg"
+            image: "/images/nfts/c6bad476235bec7cbb991a338a3b2c6f.gif"
         },
         {
             title: "Color Magic Planets (Project Detail)",
@@ -135,6 +135,7 @@ export default function PortfolioPage() {
                                         src={work.image}
                                         alt={work.title}
                                         fill
+                                        unoptimized={work.image.endsWith('.svg') || work.image.endsWith('.gif')}
                                         className="object-cover transition-transform duration-700 group-hover:scale-105"
                                         sizes="(max-width: 768px) 100vw, 40vw"
                                     />
