@@ -79,34 +79,6 @@ export default function PortfolioPage() {
             link: "/projects/soundwords",
             platform: "Project",
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/nfts/c6bad476235bec7cbb991a338a3b2c6f.gif"
-        },
-        {
-            title: "Color Magic Planets (Project Detail)",
-            description: "An in-depth look at the process and philosophy behind the creation of the Color Magic Planets collection. Understanding the math behind the atmosphere.",
-            link: "/projects/color-magic",
-            platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/color-magic-planets.png"
-        },
-        {
-            title: "Painting With Fire: A History in GANs",
-            description: "An odyssey of the Generative Adversarial Network. Bård explores the nature of AI and GAN in the metaphor of fire. The neural network learns the form of the flame.",
-            link: "/projects/painting-with-fire",
-            platform: "Project",
-            image: "/images/projects/painting-with-fire-sg3-seed0498.png"
-        },
-        {
-            title: "SAGE Anomaly",
-            description: "Series on Async Art with a Sci-Fi backstory. A multi-layered artwork exploring narrative, code, and digital autonomy.",
-            link: "/projects/sage-anomaly",
-            platform: "Project",
-            image: "https://bardionson.com/wp-content/uploads/2021/07/TheHODL-Frame.gif"
-        },
-        {
-            title: "The 8",
-            description: "A seminal piece of generative art exploring numerical symbolism and mathematical beauty through code. Released on ArtBlocks.",
-            link: "/projects/eight",
-            platform: "Project",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/eight-41000017-1024x1024.webp"
         }
     ];
 
