@@ -47,7 +47,7 @@ export default function Home() {
         </div>
 
         {/* Latest Drop Announcement (Overlay) */}
-        <div className="absolute bottom-0 left-0 right-0 z-30 container mx-auto px-4 max-w-6xl translate-y-1/2">
+        <div className="absolute bottom-8 left-0 right-0 z-30 container mx-auto px-4 max-w-6xl">
           <div className="flex flex-col md:flex-row items-center justify-between gap-8 glassmorphism p-6 md:p-8 rounded-2xl border-2 border-primary/40 relative overflow-hidden group shadow-2xl bg-black/40 backdrop-blur-xl">
              <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none group-hover:from-primary/30 transition-colors duration-500" />
              <div className="relative z-10 flex-1">
