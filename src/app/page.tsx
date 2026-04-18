@@ -45,25 +45,23 @@ export default function Home() {
             </Link>
           </div>
         </div>
-      </section>
 
-      {/* Latest Drop Announcement */}
-      <section className="py-8 bg-gradient-to-b from-background to-black border-b border-white/5 relative z-20">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-8 glassmorphism p-6 md:p-10 rounded-2xl border-2 border-primary/40 relative overflow-hidden group">
-             <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-transparent pointer-events-none group-hover:from-primary/20 transition-colors duration-500" />
+        {/* Latest Drop Announcement (Overlay) */}
+        <div className="absolute bottom-0 left-0 right-0 z-30 container mx-auto px-4 max-w-6xl translate-y-1/2">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-8 glassmorphism p-6 md:p-8 rounded-2xl border-2 border-primary/40 relative overflow-hidden group shadow-2xl bg-black/40 backdrop-blur-xl">
+             <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none group-hover:from-primary/30 transition-colors duration-500" />
              <div className="relative z-10 flex-1">
-               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-2 block animate-pulse">Now Available</span>
-               <h2 className="text-3xl font-bold text-white mb-3">Fire and Bone</h2>
-               <p className="text-lg text-white/70 max-w-2xl leading-relaxed">
+               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-1 block animate-pulse">Now Available</span>
+               <h2 className="text-2xl font-bold text-white mb-2">Fire and Bone</h2>
+               <p className="text-base text-white/80 max-w-2xl leading-relaxed">
                  Double Take #1 with Hash Gallery. Extending my interest in elemental materials, transformation, and the slow grammar of the moving image.
                </p>
              </div>
              <div className="relative z-10 shrink-0 w-full md:w-auto flex flex-col sm:flex-row gap-4">
-               <Link href="/primary-market" className="glassmorphism hover:bg-white/10 text-white px-6 py-3 rounded-full font-medium transition-all text-center border border-white/20">
+               <Link href="/primary-market" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
                  Watch Video
                </Link>
-               <a href="https://www.hashgallery.digital/double-take-1" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-6 py-3 rounded-full font-medium transition-all text-center hover:scale-105">
+               <a href="https://www.hashgallery.digital/double-take-1" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
                  Collect for $285
                </a>
              </div>
