@@ -104,6 +104,7 @@ async function main() {
         { dir: path.join(ROOT, 'public', 'images', 'nfts'), prefix: 'images/nfts' },
         { dir: path.join(ROOT, 'public', 'images', 'art'), prefix: 'images/art' },
         { dir: path.join(ROOT, 'public', 'images', 'articles'), prefix: 'images/articles' },
+        { dir: path.join(ROOT, 'public', 'images', 'projects'), prefix: 'images/projects' },
     ];
 
     const urlMap = {};  // local relative path -> blob URL

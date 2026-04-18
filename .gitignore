@@ -33,6 +33,9 @@ yarn-error.log*
 
 # NFT images (served from Vercel Blob Storage)
 public/images/nfts/
+public/images/art/
+public/images/articles/
+public/images/projects/
 
 # typescript
 *.tsbuildinfo

@@ -23,39 +23,46 @@ export default function PrimaryMarketPage() {
 
                     <div className="flex flex-col lg:flex-row gap-12 items-center relative z-10">
                         <div className="w-full lg:w-1/2 aspect-[4/3] bg-black/50 rounded-2xl border border-white/5 relative overflow-hidden flex items-center justify-center">
-                            <img src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png" alt="Bones In The Sky" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2s]" />
+                            <video 
+                                src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/Bard_Ionson-FireAndBone-sm.mp4" 
+                                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2s]"
+                                autoPlay
+                                loop
+                                muted
+                                playsInline
+                            />
                         </div>
 
                         <div className="w-full lg:w-1/2 space-y-6">
-                            <span className="text-primary font-bold tracking-wider text-sm uppercase">Curated Release</span>
-                            <h2 className="text-4xl font-bold text-white">Bones In The Sky</h2>
+                            <span className="text-primary font-bold tracking-wider text-sm uppercase">Double Take Exhibition</span>
+                            <h2 className="text-4xl font-bold text-white">Fire and Bone</h2>
                             <p className="text-white/70 text-lg leading-relaxed">
-                                The foundational piece of the upcoming Marfa and Lisbon exhibitions. This work explores the blending of desert landscapes with the surreal algorithmic interventions of style GANs.
+                                For Double Take #1, Bård contributes Fire and Bone, a video piece that extends his interest in elemental materials, transformation, and the slow grammar of the moving image. Released alongside Osinachi&apos;s &quot;Kinship&quot;.
                             </p>
 
                             <div className="pt-4 border-t border-white/10 flex flex-wrap gap-6 items-center">
                                 <div>
-                                    <p className="text-sm text-white/50 mb-1">Platform</p>
-                                    <p className="font-bold">Sky Bones</p>
+                                    <p className="text-sm text-white/50 mb-1">Gallery</p>
+                                    <p className="font-bold">Hash</p>
                                 </div>
                                 <div>
                                     <p className="text-sm text-white/50 mb-1">Edition</p>
-                                    <p className="font-bold">1 of 1</p>
+                                    <p className="font-bold">250</p>
                                 </div>
                                 <div>
                                     <p className="text-sm text-white/50 mb-1">Price</p>
-                                    <p className="font-bold">2.5 ETH</p>
+                                    <p className="font-bold">$285 USD</p>
                                 </div>
                             </div>
 
                             <div className="pt-4">
                                 <a
-                                    href="https://sky-bones.bardionson.com/marketplace"
+                                    href="https://www.hashgallery.digital/double-take-1"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-3 rounded-full font-medium transition-colors"
                                 >
-                                    View on Sky Bones
+                                    Collect on Hash Gallery
                                 </a>
                             </div>
                         </div>
