@@ -8,8 +8,8 @@ export default function Home() {
       <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bone-flag.jpg"
-          alt="Vanishing Of The Genuine: Bone Flag by Bård Ionson"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778360304211-Walled-City-Of-Gold.jpg"
+          alt="Balloons In The Sky by Bård Ionson"
           fill
           className="object-cover opacity-30"
           priority
@@ -109,6 +109,80 @@ export default function Home() {
               </div>
             </div>
           ))}
+        </div>
+      </section>
+
+      {/* The Simulation Trilogy */}
+      <section className="py-20 container mx-auto px-4 border-t border-white/5">
+        <div className="flex flex-col md:flex-row justify-between items-end mb-12">
+          <div>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">The Simulation Trilogy</h2>
+            <p className="text-white/50">A three-part series exploring elevation, memory, and simulated reality.</p>
+          </div>
+          <Link href="/balloons-in-the-sky" className="text-primary hover:text-primary-dark hover:underline underline-offset-4 mt-4 md:mt-0 transition-colors">
+            View Latest →
+          </Link>
+        </div>
+
+        {/* Featured: Balloons In The Sky */}
+        <Link href="/balloons-in-the-sky" className="group block glassmorphism rounded-3xl overflow-hidden hover:border-primary/40 transition-all mb-8">
+          <div className="relative aspect-[16/7]">
+            <Image
+              src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778794988036-Digital-Anomaly.jpg"
+              alt="Balloons In The Sky"
+              fill
+              priority
+              className="object-cover group-hover:scale-105 transition-transform duration-700"
+              sizes="(max-width: 768px) 100vw, 80vw"
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-background/80 via-background/40 to-transparent" />
+            <div className="absolute inset-0 flex flex-col justify-center p-8 md:p-12">
+              <span className="inline-block px-3 py-1 rounded-full bg-primary/30 text-primary border border-primary/40 mb-4 text-xs font-medium w-fit">
+                Part III — New
+              </span>
+              <h3 className="text-3xl md:text-5xl font-bold text-white mb-3">Balloons In The Sky</h3>
+              <p className="text-white/60 max-w-lg text-base md:text-lg">
+                A generative AI installation. Press a button, mint a 1/1 NFT, take home a physical print.
+              </p>
+              <span className="mt-4 text-primary text-sm font-medium group-hover:underline">Explore →</span>
+            </div>
+          </div>
+        </Link>
+
+        {/* Part I and Part II */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <Link href="/projects/painting-with-fire" className="group glassmorphism rounded-2xl overflow-hidden hover:border-primary/30 transition-all">
+            <div className="relative aspect-video">
+              <Image
+                src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/sg3-seed.png"
+                alt="Painting With Fire"
+                fill
+                className="object-cover group-hover:scale-105 transition-transform duration-500"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
+            </div>
+            <div className="p-6">
+              <p className="text-xs text-white/40 mb-1">Part I</p>
+              <h3 className="text-xl font-bold group-hover:text-primary transition-colors">Painting With Fire</h3>
+            </div>
+          </Link>
+          <Link href="/projects/sky-bones" className="group glassmorphism rounded-2xl overflow-hidden hover:border-primary/30 transition-all">
+            <div className="relative aspect-video">
+              <Image
+                src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png"
+                alt="Bones In The Sky"
+                fill
+                className="object-cover group-hover:scale-105 transition-transform duration-500"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
+            </div>
+            <div className="p-6">
+              <p className="text-xs text-white/40 mb-1">Part II</p>
+              <h3 className="text-xl font-bold group-hover:text-primary transition-colors">Bones In The Sky</h3>
+            </div>
+          </Link>
         </div>
       </section>
 
