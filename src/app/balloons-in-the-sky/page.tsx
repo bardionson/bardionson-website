@@ -9,7 +9,7 @@ export const metadata = {
 
 const trilogy = [
   { part: "Part I", title: "Painting With Fire", href: "/projects/painting-with-fire", active: false },
-  { part: "Part II", title: "Bones In The Sky", href: "/sky-bones", active: false },
+  { part: "Part II", title: "Bones In The Sky", href: "/projects/sky-bones", active: false },
   { part: "Part III", title: "Balloons In The Sky", href: "/balloons-in-the-sky", active: true },
 ];
 
