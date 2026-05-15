@@ -131,6 +131,7 @@ export default function Home() {
               src="/images/art/computer-new-gallery.jpg"
               alt="Balloons In The Sky"
               fill
+              priority
               className="object-cover group-hover:scale-105 transition-transform duration-700"
               sizes="(max-width: 768px) 100vw, 80vw"
             />
@@ -166,7 +167,7 @@ export default function Home() {
               <h3 className="text-xl font-bold group-hover:text-primary transition-colors">Painting With Fire</h3>
             </div>
           </Link>
-          <Link href="/sky-bones" className="group glassmorphism rounded-2xl overflow-hidden hover:border-primary/30 transition-all">
+          <Link href="/projects/sky-bones" className="group glassmorphism rounded-2xl overflow-hidden hover:border-primary/30 transition-all">
             <div className="relative aspect-video">
               <Image
                 src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bones-in-the-sky.png"
