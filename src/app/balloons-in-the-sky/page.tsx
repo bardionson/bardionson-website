@@ -39,6 +39,7 @@ export default function BalloonsInTheSkyPage() {
             alt="Balloons In The Sky by Bård Ionson"
             fill
             className="object-cover"
+            sizes="(max-width: 768px) 100vw, 80vw"
             priority
           />
           <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent" />
