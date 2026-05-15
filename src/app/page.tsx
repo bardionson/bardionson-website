@@ -8,8 +8,8 @@ export default function Home() {
       <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/bone-flag.jpg"
-          alt="Vanishing Of The Genuine: Bone Flag by Bård Ionson"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778360304211-Walled-City-Of-Gold.jpg"
+          alt="Balloons In The Sky by Bård Ionson"
           fill
           className="object-cover opacity-30"
           priority
@@ -128,7 +128,7 @@ export default function Home() {
         <Link href="/balloons-in-the-sky" className="group block glassmorphism rounded-3xl overflow-hidden hover:border-primary/40 transition-all mb-8">
           <div className="relative aspect-[16/7]">
             <Image
-              src="/images/art/computer-new-gallery.jpg"
+              src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778794988036-Digital-Anomaly.jpg"
               alt="Balloons In The Sky"
               fill
               priority

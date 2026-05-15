@@ -35,7 +35,7 @@ export default function BalloonsInTheSkyPage() {
       <section className="container mx-auto px-4 mb-16">
         <div className="max-w-5xl mx-auto relative aspect-video rounded-3xl overflow-hidden">
           <Image
-            src="/images/art/computer-new-gallery.jpg"
+            src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778360304211-Walled-City-Of-Gold.jpg"
             alt="Balloons In The Sky by Bård Ionson"
             fill
             className="object-cover"
@@ -50,18 +50,13 @@ export default function BalloonsInTheSkyPage() {
       <section className="container mx-auto px-4 mb-16">
         <div className="max-w-3xl mx-auto space-y-6 text-white/70 text-lg leading-relaxed">
           <p>
-            <em>Balloons In The Sky</em> is the final installment of The Simulation Trilogy by
-            Bård and Jennifer Ionson. Born from the experience of documenting a mass balloon
-            ascension in New Mexico, the work transforms those memories into an autonomous
-            generative art installation — a self-contained node running a custom GPU workstation
-            and proprietary StyleGAN AI model on a 75-inch portrait display.
+            <em>Balloons In The Sky</em> is the final resolution of The Simulation Trilogy. The journey of this trilogy has been one of gradual elevation and structural discovery. It began with the foundational <em>Painting With Fire</em>, moved through the skeletal desert landscapes of Marfa, Texas—where the second act, <em>Bones In The Sky</em>, premiered at Art Blocks Weekend—and now culminates in <em>Balloons In The Sky</em>. While previous chapters explored the entropy of our digital existence, this act is born from color, weightlessness, and the pursuit of a collective memory.
           </p>
           <p>
-            Visitors encounter a physical red button. Pressing it freezes the continuous
-            generative stream at a moment of their choosing, immediately minting a unique 1/1
-            NFT on Ethereum mainnet and printing a physical artifact via integrated
-            dye-sublimation printer. The work explores elevation, weightlessness, and collective
-            memory through the intersection of human intuition and algorithmic generation.
+            The “ground truth” of this simulation is a dual perspective: Jennifer Ionson captured the vastness and precision of the event through 3,000 digital SLR photographs, while Bård Ionson documented the textured, chemical memory of the morning through 700 frames of 35mm half-frame film. By weaving together digital clarity and analog grain, we created a custom generative AI that understands both the physics of flight and the emotion of the light.
+          </p>
+          <p>
+            Balloons In The Sky is engineered as a self-contained, autonomous art-delivery system—a “living” node designed for archival permanence. A custom StyleGAN architecture navigates a multi-dimensional map of original digital and analog source images. Upon capture, the node simultaneously executes a 1/1 NFT mint on Ethereum mainnet and a high-fidelity print via an integrated dye-sublimation printer. 
           </p>
           <blockquote className="border-l-2 border-primary pl-6 text-white/90 font-medium text-xl italic">
             &ldquo;Your button press is not an automation; it is a signature.&rdquo;
