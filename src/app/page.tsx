@@ -52,17 +52,17 @@ export default function Home() {
              <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none group-hover:from-primary/30 transition-colors duration-500" />
              <div className="relative z-10 flex-1">
                <span className="text-primary font-bold tracking-wider text-sm uppercase mb-1 block animate-pulse">Now Available</span>
-               <h2 className="text-2xl font-bold text-white mb-2">Fire and Bone</h2>
+               <h2 className="text-2xl font-bold text-white mb-2">Balloons In The Sky</h2>
                <p className="text-base text-white/80 max-w-2xl leading-relaxed">
-                 Double Take #1 with Hash Gallery. Extending my interest in elemental materials, transformation, and the slow grammar of the moving image.
+                 A generative AI installation. Press a button, mint a 1/1 NFT, take home a physical print.
                </p>
              </div>
              <div className="relative z-10 shrink-0 w-full md:w-auto flex flex-col sm:flex-row gap-4">
-               <Link href="/primary-market" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
-                 Watch Video
+               <Link href="/balloons-in-the-sky" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
+                 Learn More
                </Link>
-               <a href="https://www.hashgallery.digital/double-take-1" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
-                 Collect for $285
+               <a href="https://inthesky.art" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
+                 Mint Now →
                </a>
              </div>
           </div>
