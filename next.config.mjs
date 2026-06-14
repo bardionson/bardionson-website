@@ -63,6 +63,22 @@ const nextConfig = {
             redirects.push({ source: `${p.source}/`, destination: `/projects/${p.dest}`, permanent: true });
         });
 
+        const legacyPages = [
+            { source: '/bio', destination: '/about' },
+            { source: '/artist-news', destination: '/news' },
+            { source: '/artist-contact', destination: '/' },
+            { source: '/commission', destination: '/' },
+            { source: '/press', destination: '/news' },
+            { source: '/wp-content/uploads/:path*', destination: '/cv' },
+        ];
+
+        legacyPages.forEach(p => {
+            redirects.push({ source: p.source, destination: p.destination, permanent: true });
+            if (!p.source.includes(':path*')) {
+                redirects.push({ source: `${p.source}/`, destination: p.destination, permanent: true });
+            }
+        });
+
         return redirects;
     },
 };
