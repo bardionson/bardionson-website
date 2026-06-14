@@ -16,7 +16,7 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background z-10" />
 
-        <div className="container relative z-20 px-4 flex flex-col items-center text-center">
+        <div className="container relative z-20 px-4 flex flex-col items-center text-center pb-56 md:pb-48">
           <div className="mb-6 font-serif text-3xl md:text-4xl text-primary font-medium tracking-wide">
             Bård Ionson
           </div>
