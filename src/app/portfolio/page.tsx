@@ -79,6 +79,13 @@ export default function PortfolioPage() {
             link: "/projects/soundwords",
             platform: "Project",
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/nfts/c6bad476235bec7cbb991a338a3b2c6f.gif"
+        },
+        {
+            title: "Fountain Remix",
+            description: "A tribute to Duchamp's Fountain — remixed through the lens of crypto art and generative systems. Available on Fountain.",
+            link: "https://fountain-art.com",
+            platform: "Fountain",
+            image: ""
         }
     ];
 
@@ -129,6 +136,23 @@ export default function PortfolioPage() {
                             </div>
                         </div>
                     ))}
+                </div>
+
+                {/* Galleries */}
+                <div className="mt-20 pt-12 border-t border-white/10">
+                    <h2 className="text-2xl font-bold mb-8">Galleries</h2>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <a href="https://www.raster.art/artist/bard-ionson" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-8 hover:border-primary/40 transition-all group">
+                            <h3 className="text-xl font-bold group-hover:text-primary transition-colors mb-2">Raster Gallery</h3>
+                            <p className="text-white/50 text-sm leading-relaxed">Selected works represented at Raster, a leading crypto art gallery.</p>
+                            <span className="inline-block mt-4 text-primary text-sm">raster.art →</span>
+                        </a>
+                        <a href="https://superrare.com/bardionson" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-8 hover:border-primary/40 transition-all group">
+                            <h3 className="text-xl font-bold group-hover:text-primary transition-colors mb-2">SuperRare</h3>
+                            <p className="text-white/50 text-sm leading-relaxed">Original works since 2018 — one of the earliest artists on the platform.</p>
+                            <span className="inline-block mt-4 text-primary text-sm">superrare.com →</span>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -41,6 +41,7 @@ export default function RootLayout({
                 Bård Ionson
               </Link>
               <nav className="hidden md:flex items-center space-x-6 text-sm font-medium text-white/70">
+                <Link href="/about" className="hover:text-white transition-colors">About</Link>
                 <Link href="/portfolio" className="hover:text-white transition-colors">Portfolio</Link>
                 <Link href="/exhibitions" className="hover:text-white transition-colors">Exhibitions</Link>
                 <Link href="/news" className="hover:text-white transition-colors">News</Link>
