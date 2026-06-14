@@ -4,6 +4,13 @@ import Image from "next/image";
 export default function PortfolioPage() {
     const works = [
         {
+            title: "Fire and Bone",
+            description: "Double Take #1 with Hash Gallery. Extending my interest in elemental materials, transformation, and the slow grammar of the moving image.",
+            link: "https://www.hashgallery.digital/double-take-1",
+            platform: "Hash Gallery",
+            image: ""
+        },
+        {
             title: "Vanishing Of The Genuine: Bone Flag",
             description: "An exploration of reality and a culture moving into a simulated world. What is real, what is death and what is life? Inspired by Georgia O'Keeffe, Jean Baudrillard and Jasper Johns — we see bones in the sky as AI simulated fragments of film photography. The surreal world of living in a simulation has now arrived.",
             link: "https://www.transient.xyz/nfts/ethereum/0x787f1a337ad0a4c5641bbc0b81ceb5123130b771/1",
