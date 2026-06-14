@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata = {
   title: "Balloons In The Sky — Bård Ionson",
@@ -57,6 +58,30 @@ export default function BalloonsInTheSkyPage() {
           <blockquote className="border-l-2 border-primary pl-6 text-white/90 font-medium text-xl italic">
             &ldquo;Your button press is not an automation; it is a signature.&rdquo;
           </blockquote>
+        </div>
+      </section>
+
+      {/* Installation Photos */}
+      <section className="container mx-auto px-4 mb-16">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="relative aspect-[3/4] rounded-2xl overflow-hidden glassmorphism">
+            <Image
+              src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/IMG_5111%20copy.jpg"
+              alt="Balloons In The Sky installation at Hash Gallery"
+              fill
+              className="object-cover hover:scale-105 transition-transform duration-700"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </div>
+          <div className="relative aspect-[3/4] rounded-2xl overflow-hidden glassmorphism">
+            <Image
+              src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/IMG_5118.JPG"
+              alt="Balloons In The Sky installation at Hash Gallery"
+              fill
+              className="object-cover hover:scale-105 transition-transform duration-700"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </div>
         </div>
       </section>
 
