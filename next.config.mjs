@@ -22,6 +22,18 @@ const nextConfig = {
             },
         ],
     },
+    async rewrites() {
+        return {
+            beforeFiles: [
+                {
+                    source: '/:path*',
+                    has: [{ type: 'host', value: 'soul-scroll.bardionson.com' }],
+                    destination: '/soul-scroll/:path*',
+                },
+            ],
+        };
+    },
+
     async redirects() {
         let redirects = [];
         try {
