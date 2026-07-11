@@ -109,6 +109,11 @@ export async function withPayment(
       payTo: PAY_TO,
     },
     description: routeConfig.description,
+    // resource/mimeType are Bazaar discovery metadata: the CDP facilitator
+    // catalogs a route the first time it settles a payment for it (no
+    // separate registration step) using whatever's declared here.
+    resource: req.url,
+    mimeType: "application/json",
   };
 
   // NB: x402ResourceServer.initialize() unconditionally clears and re-fetches
