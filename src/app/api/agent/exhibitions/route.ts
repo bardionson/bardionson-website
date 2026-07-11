@@ -1,7 +1,10 @@
 import { getAllExhibitions } from "@/lib/exhibitions";
 import { withPayment } from "@/lib/x402";
+import { AGENT_RESOURCES } from "@/lib/agent-resources";
 
 export const runtime = "nodejs";
+
+const resource = AGENT_RESOURCES.find((r) => r.path === "/api/agent/exhibitions")!;
 
 /**
  * Agent-only structured exhibition data, gated by x402. Reuses the same
@@ -12,10 +15,7 @@ export const runtime = "nodejs";
 export async function GET(request: Request) {
   return withPayment(
     request,
-    {
-      price: "$0.01",
-      description: "Structured exhibition history (title, year, venue, dates, links) as JSON",
-    },
+    { price: resource.price, description: resource.description },
     async () => {
       const exhibitions = getAllExhibitions();
       return new Response(JSON.stringify({ exhibitions }), {

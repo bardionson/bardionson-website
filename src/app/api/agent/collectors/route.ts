@@ -1,6 +1,9 @@
 import { withPayment } from "@/lib/x402";
+import { AGENT_RESOURCES } from "@/lib/agent-resources";
 
 export const runtime = "nodejs";
+
+const resource = AGENT_RESOURCES.find((r) => r.path === "/api/agent/collectors")!;
 
 /**
  * Agent-only structured collector-vault data, gated by x402. Distinct from
@@ -12,10 +15,7 @@ export const runtime = "nodejs";
 export async function GET(request: Request) {
   return withPayment(
     request,
-    {
-      price: "$0.05",
-      description: "Structured collector-vault notes and early-access drops as JSON",
-    },
+    { price: resource.price, description: resource.description },
     async () => {
       const notes = [
         {
