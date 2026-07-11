@@ -1,6 +1,6 @@
 ---
 title: "Exhibition Retrospective: CADAF 2019–2022"
-date: "2026-04-11"
+date: "2022-01-01"
 excerpt: "Looking back at the progression of my digital art exhibitions at the Contemporary And Digital Art Fair (CADAF), spanning from physical events in Miami to virtual showcases."
 image: "/images/articles/cadaf-exhibition.png"
 ---

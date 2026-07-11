@@ -1,6 +1,6 @@
 ---
 title: "Automatic War"
-date: "2026-04-11"
+date: "2022-01-01"
 excerpt: "A look back at the 'Automatic War' project, a concise thematic series comprising several pieces reflecting on automated conflict and technological warfare."
 image: "/images/articles/automatic-war.png"
 ---
