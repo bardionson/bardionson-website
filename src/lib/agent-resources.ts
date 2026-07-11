@@ -1,3 +1,5 @@
+import { getAllArticles } from "@/lib/markdown";
+
 /**
  * Single source of truth for this app's x402-gated agent endpoints: each
  * route.ts imports its own entry here for price/description instead of
@@ -14,6 +16,8 @@ export interface AgentResourceDef {
   description: string;
 }
 
+const NEWS_PRICE = "$0.01";
+
 export const AGENT_RESOURCES: AgentResourceDef[] = [
   {
     path: "/api/agent/exhibitions",
@@ -25,4 +29,14 @@ export const AGENT_RESOURCES: AgentResourceDef[] = [
     price: "$0.05",
     description: "Structured collector-vault notes and early-access drops as JSON",
   },
+  {
+    path: "/api/agent/news",
+    price: NEWS_PRICE,
+    description: "News article index (title, date, excerpt, slugs) as JSON",
+  },
+  ...getAllArticles().map((a) => ({
+    path: `/api/agent/news/${a.slug}`,
+    price: NEWS_PRICE,
+    description: `Full news article: "${a.title}"`,
+  })),
 ];
