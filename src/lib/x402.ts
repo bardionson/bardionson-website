@@ -29,8 +29,12 @@ export type Network = `${string}:${string}`;
  *   /verify and /settle require the CDP key pair.
  */
 
-export const NETWORK = (process.env.X402_NETWORK ?? "eip155:84532") as Network;
-export const PAY_TO = process.env.X402_PAY_TO_ADDRESS;
+// .trim() defensively: a trailing space/newline pasted into a Vercel env var
+// field is invisible in the dashboard but makes an exact-match network
+// lookup (e.g. @x402/evm's getDefaultAsset) fail with a confusing
+// "No default asset configured" error instead of an obvious one.
+export const NETWORK = (process.env.X402_NETWORK?.trim() || "eip155:84532") as Network;
+export const PAY_TO = process.env.X402_PAY_TO_ADDRESS?.trim();
 
 let cachedServer: x402ResourceServer | null = null;
 let initPromise: Promise<void> | null = null;
