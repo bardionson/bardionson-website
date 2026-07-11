@@ -1,0 +1,33 @@
+{
+  "x402Version": 1,
+  "resources": [
+    {
+      "resource": "https://bardionson.com/api/agent/exhibitions",
+      "method": "GET",
+      "description": "Structured exhibition history (title, year, venue, dates, links) as JSON",
+      "mimeType": "application/json",
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:84532",
+          "payTo": "0xYOUR_WALLET_ADDRESS_HERE",
+          "price": "$0.01"
+        }
+      ]
+    },
+    {
+      "resource": "https://bardionson.com/api/agent/collectors",
+      "method": "GET",
+      "description": "Structured collector-vault notes and early-access drops as JSON",
+      "mimeType": "application/json",
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:84532",
+          "payTo": "0xYOUR_WALLET_ADDRESS_HERE",
+          "price": "$0.05"
+        }
+      ]
+    }
+  ]
+}
