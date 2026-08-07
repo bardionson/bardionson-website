@@ -7,7 +7,7 @@ excerpt: >-
 image: >-
   https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/cryptoart-revolution/6ApollyonSm.jpg
 ---
-![](https://bardionson.com/wp-content/uploads/2022/01/cryptoArtRevolutionBanner-1024x341.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/cryptoart-revolution/cryptoArtRevolutionBanner-1024x341.jpeg)
 
 ## Some images of my art in an art exhibition in Paris December 2021
 

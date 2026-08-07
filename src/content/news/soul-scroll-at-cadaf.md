@@ -21,7 +21,7 @@ For those new to this concept, when payment is made to the blockchain contract t
 
 [Breezy Art](https://www.breezyart.io/)
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-49-860x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-at-cadaf/image-49-860x1024.png)
 
 ## Tech Specs
 
@@ -51,7 +51,7 @@ The main aesthetic focal point is the aluminum triangle with The Eye with wings.
 
 Also included is a screen that displays the image of the NFT after it is minted and an iPhone that is streaming the reading to all of the internet.
 
-![](https://bardionson.com/wp-content/uploads/2022/11/SignForTable-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-at-cadaf/SignForTable-1024x1024.jpg)
 
 ### Share this:
 

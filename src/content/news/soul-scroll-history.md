@@ -27,7 +27,7 @@ A Prayer from Soul Scroll
 
 It is never minted again.
 
-![](https://bardionson.com/wp-content/uploads/2022/05/image-2-1024x642.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-history/image-2-1024x642.png)
 
 Pay for a prayer select number of times to have it read
 

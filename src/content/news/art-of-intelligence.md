@@ -7,11 +7,11 @@ image: >-
 ---
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-of-intelligence/UsAbstractExpressionChatGPT-Image-Jun-21-2025-08_43_11-AM.png)
 
-![](https://bardionson.com/wp-content/uploads/2025/06/artOfIntelligence-venice1964-1024x576.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-of-intelligence/artOfIntelligence-venice1964-1024x576.png)
 
-![](https://bardionson.com/wp-content/uploads/2025/06/artOfIntelligence-venice1964-3-1024x576.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-of-intelligence/artOfIntelligence-venice1964-3-1024x576.png)
 
-![](https://bardionson.com/wp-content/uploads/2025/06/artOfIntelligence-venice1964-2-1024x576.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-of-intelligence/artOfIntelligence-venice1964-2-1024x576.png)
 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-of-intelligence/abstractExpresionismChatGPT-Image-Jun-19-2025-09_12_18-PM.png)
 

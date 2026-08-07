@@ -13,7 +13,7 @@ Bård Ionson’s art is for the second time being displayed in a library. But th
 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/oxford-university-nft/image.png)
 
-![Entrance Alphabets Alive! Bodleian Library by Ian Wallman](https://bardionson.com/wp-content/uploads/2024/04/Entrance-Alphabets_Alive_Bodleian_Library_by_Ian_Wallman_00177_HDR-copy-2-1024x888.jpeg)
+![Entrance Alphabets Alive! Bodleian Library by Ian Wallman](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/oxford-university-nft/Entrance-Alphabets_Alive_Bodleian_Library_by_Ian_Wallman_00177_HDR-copy-2-1024x888.jpeg)
 
 Entrance Alphabets Alive! Bodleian Library by Ian Wallman
 

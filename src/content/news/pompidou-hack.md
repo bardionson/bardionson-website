@@ -29,7 +29,7 @@ Many other artists and collectors sent art to the wallet while it was still open
 
 On April 5th the [NFT Factory](https://nftfactoryparis.com/) held a special showing and event to commemorate the hack. It was covered by the [French press](https://www.telerama.fr/sortir/des-nft-au-centre-pompidou-comment-exposer-l-immateriel-7015042.php).
 
-![Art NFTs that were added to the crypto wallet of Centre Pompidou on display at NFT Factory](https://bardionson.com/wp-content/uploads/2023/08/image-1024x768.png)
+![Art NFTs that were added to the crypto wallet of Centre Pompidou on display at NFT Factory](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/pompidou-hack/image-1024x768.png)
 
 Art NFTs that were added to the crypto wallet of Centre Pompidou
 

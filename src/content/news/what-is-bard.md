@@ -31,11 +31,11 @@ Or login here and see you you have any.
 
 Log In With a Crypto Wallet You are not logged in
 
-![](https://bardionson.com/wp-content/uploads/2021/12/etherscanTokenSearch-1024x427.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/what-is-bard/etherscanTokenSearch-1024x427.jpg)
 
 Then click on the Token field and another search will appear. Type in bard and it will show you how much of it is in your wallet. I sent a few people up to 27,000 $BARD
 
-![](https://bardionson.com/wp-content/uploads/2021/12/etherscanTokenSearch2-1024x547.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/what-is-bard/etherscanTokenSearch2-1024x547.jpg)
 
 The contract for the $BARD token is found on [Etherscan](https://etherscan.io/address/0xe05C99fd798C09C066B87d841eCF89Dac4B4856E). And has the contract number of 0xe05C99fd798C09C066B87d841eCF89Dac4B4856E. This is important because it can be added to your Metamask or other wallet so you can see if it is there. Go to assets or token list and press add tokens. The wallet should ask for a contract number. Once you paste in the number above you should see BARD.
 

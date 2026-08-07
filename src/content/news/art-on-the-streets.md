@@ -41,11 +41,11 @@ Deer Skull Token Shaman
 
 Creative Bone
 
-![](https://bardionson.com/wp-content/uploads/2024/11/04_Bard_Ionson-crop-965x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-on-the-streets/04_Bard_Ionson-crop-965x1024.jpg)
 
 Pelvis
 
-![](https://bardionson.com/wp-content/uploads/2024/11/death-meme-many-sq-921x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-on-the-streets/death-meme-many-sq-921x1024.jpg)
 
 Death By Meme
 

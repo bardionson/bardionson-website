@@ -7,7 +7,7 @@ date: '2022-01-01'
 
 Digital AI
 
-![](http://bardionson.com/wp-content/uploads/2021/07/PresidentialPortrait2017-2021.gif)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/exhibitions/PresidentialPortrait2017-2021.gif)
 
 ## About
 

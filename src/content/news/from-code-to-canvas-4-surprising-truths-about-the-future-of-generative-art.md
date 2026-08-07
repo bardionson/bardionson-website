@@ -48,7 +48,7 @@ Artists like Bård Ionson are veterans of this era, with acclaimed projects like
 
 Nothing counters the narrative of digital art as a fleeting fad more powerfully than institutional validation. In a landmark achievement for the medium, the work of generative artists is now being collected and preserved by some of the world’s oldest and most respected cultural archives.
 
-![a hornbook with a digital image of oscillscope alphabet art in it](https://bardionson.com/wp-content/uploads/2023/07/img_4494-625x1024.webp)
+![a hornbook with a digital image of oscillscope alphabet art in it](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/from-code-to-canvas-4-surprising-truths-about-the-future-of-generative-art/img_4494-625x1024.webp)
 
 Battledore
 

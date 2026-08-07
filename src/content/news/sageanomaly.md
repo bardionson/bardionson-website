@@ -15,7 +15,7 @@ Discover the story of the SAGE Anomaly by minting new art pieces. The story is t
 
 This is a new multi edition artwork on Async.Art. It will be a drop of 303 unique art pieces made from 16 different layers making a combination of 380,436 different possibilities.
 
-![](https://bardionson.com/wp-content/uploads/2022/03/PriceCard-1024x886.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/sageanomaly/PriceCard-1024x886.jpg)
 
 The price will be set at an affordable 0.05 ETH and there will be two legendary video art editions out of the 303 in the collection.
 

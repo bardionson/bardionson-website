@@ -33,7 +33,7 @@ Find it in the [SuperRare](https://superrare.com/0xd9ee10275dd120663b35bedb77390
 
 NEED is inspired by the WANT. The opposite of want. As a baby all it can do is need. The sound is overwhelming as the lines fluctuate all around.
 
-![Hand drawing of NEED a baby in a blanket their face is two circles and the mouth says NEED](https://bardionson.com/wp-content/uploads/2021/11/sketchOfNeed-1024x625.jpg)
+![Hand drawing of NEED a baby in a blanket their face is two circles and the mouth says NEED](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/want/sketchOfNeed-1024x625.jpg)
 
 NEED in Progress
 

@@ -7,11 +7,11 @@ image: >-
 ---
 A food bank with people happy to get the food for christmas off the shelves photorealistic close up with two people
 
-![](https://bardionson.com/wp-content/uploads/2024/01/foodbank1-1024x585.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/christmas-charity/foodbank1-1024x585.jpeg)
 
-![](https://bardionson.com/wp-content/uploads/2024/01/foodbank2-1024x585.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/christmas-charity/foodbank2-1024x585.jpeg)
 
-![](https://bardionson.com/wp-content/uploads/2024/01/santa-foodbank-1024x585.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/christmas-charity/santa-foodbank-1024x585.jpeg)
 
 Dalle make a photo of A food bank with people happy to get the food for christmas off the shelves photorealistic
 

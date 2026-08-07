@@ -54,7 +54,7 @@ Ionson’s presence in this show forces a compelling question: is the artist who
 
 Ultimately, Bård Ionson’s work this fall isn’t a double-act; it’s a unified thesis. He seems to argue that to truly understand the digital age, one must engage with its entire ecosystem—from the profound, one-on-one dance with an AI in Marfa to the industrial-grade absurdity of the Paris slop. By operating at both extremes, Ionson provides a rare and vital perspective, proving himself not just an artist for all seasons, but a crucial cartographer of our strange new algorithmic world.
 
-![](https://bardionson.com/wp-content/uploads/2025/09/artblocksWeekend2025flyer-sm-792x1024.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/from-high-tech-to-digital-slop/artblocksWeekend2025flyer-sm-792x1024.jpeg)
 
 Art Blocks Weekend 2025 Artists
 
