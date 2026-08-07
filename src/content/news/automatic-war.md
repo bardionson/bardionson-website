@@ -2,7 +2,7 @@
 title: "Automatic War"
 date: "2022-01-01"
 excerpt: "A look back at the 'Automatic War' project, a concise thematic series comprising several pieces reflecting on automated conflict and technological warfare."
-image: "/images/articles/automatic-war.png"
+image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/automatic-war.png"
 ---
 
 # Automatic War
