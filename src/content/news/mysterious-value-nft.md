@@ -25,11 +25,11 @@ Value changes over time and crypto is the latest in human history to redefine th
 
 Mysterious Value
 
-*   ![](https://bardionson.com/wp-content/uploads/2021/11/MysteriousValueStill1-1-1024x1024.jpg)
+*   ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/mysterious-value-nft/MysteriousValueStill1-1.jpg)
     
-*   ![](https://bardionson.com/wp-content/uploads/2021/11/MysteriousValueStill2-1024x1024.jpg)
+*   ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/mysterious-value-nft/MysteriousValueStill2.jpg)
     
-*   ![](https://bardionson.com/wp-content/uploads/2021/11/MysteriousValueStill3-1024x1024.jpg)
+*   ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/mysterious-value-nft/MysteriousValueStill3.jpg)
     
 
 Still images from Mysterious Value

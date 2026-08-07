@@ -11,7 +11,7 @@ image: >-
 
 #### The art of Bård Ionson will be on exhibition July 2 – 27 2024 in Berlin at [Expanded.Art](https://expanded.art)
 
-![](https://bardionson.com/wp-content/uploads/2024/06/1-FireCell-seed0031landscape-g-sm-1024x576.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/naked-flames/1-FireCell-seed0031landscape-g-sm.png)
 
 Naked Flames: Slice of Fire Bård Ionson 2024
 

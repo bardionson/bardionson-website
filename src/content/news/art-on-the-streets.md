@@ -37,7 +37,7 @@ Deer Skull Token & Shaman
 
 Deer Skull Token Shaman
 
-![an abstract modernistic sculpture of a bone floating in the sky blue with clouds](https://bardionson.com/wp-content/uploads/2024/11/Bard_2-crop-921x1024.jpg)
+![an abstract modernistic sculpture of a bone floating in the sky blue with clouds](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/art-on-the-streets/Bard_2-crop.jpg)
 
 Creative Bone
 

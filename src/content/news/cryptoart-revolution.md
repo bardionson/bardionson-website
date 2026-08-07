@@ -20,7 +20,7 @@ image: >-
 
 ## [Knights of the Apocalypse](https://knownorigin.io/collections/bard-ionson/knights-of-the-apocalypse)
 
-![](https://bardionson.com/wp-content/uploads/2022/01/fourKnightsMoca-1024x683.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/cryptoart-revolution/fourKnightsMoca.jpeg)
 
 Knights of the Apocalypse in Paris
 

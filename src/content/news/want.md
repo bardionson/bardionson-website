@@ -11,11 +11,11 @@ image: >-
 
 ##### As seen at the Presidio San Francisco
 
-![](https://bardionson.com/wp-content/uploads/2022/10/IMG_4131-576x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/want/IMG_4131.jpg)
 
 WANT
 
-![](https://bardionson.com/wp-content/uploads/2022/10/IMG_4143-768x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/want/IMG_4143.jpg)
 
 Too much want brings the end closer. The past is the future of history. A 4k remix of the XCOPY art pieces called WANT inspired by the techniques of Matt Kane and Coldie. As a tracing of his original art it is now an animated sound filled 3D fly through with oscilloscope sound.
 

@@ -17,7 +17,7 @@ For those new to this concept, when payment is made to the blockchain contract t
 
 (Soul Scroll, you might have called it a Holy Roller, is designed to act as a proxy for women to pray approved prayers of the Republic of Gilead out loud. Prayers generated may be offensive but they are based on prayers from The Handmaid’s Tale and religious communities I have studied and participated in.) You can see the prayers that have been read for others on [OpenSea](https://opensea.io/collection/soul-scroll).
 
-![](https://bardionson.com/wp-content/uploads/2022/11/briziPrayer-473x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-at-cadaf/briziPrayer.png)
 
 [Breezy Art](https://www.breezyart.io/)
 
@@ -47,7 +47,7 @@ In addition there are methods to renounce the office and one for excommunication
 
 The main aesthetic focal point is the aluminum triangle with The Eye with wings. It is a combination of the eye of Horus and the wings of Isis. Again based on the book which describes and eye with wings as the symbol of the Republic.
 
-![](https://bardionson.com/wp-content/uploads/2022/11/soulScrollDisplay-1024x827.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-at-cadaf/soulScrollDisplay.jpg)
 
 Also included is a screen that displays the image of the NFT after it is minted and an iPhone that is streaming the reading to all of the internet.
 

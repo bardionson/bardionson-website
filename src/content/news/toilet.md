@@ -13,7 +13,7 @@ This is one of the best artificial intelligence art pieces I have produced. I am
 
 The throne sits in a marble white room. An homage to Elsa von Freytag -Loringhoven, Morton Livingston Schamberg, and Marcel Duchamp. (A toilet)
 
-![The throne (toilet) sits in a marble white room. An homage to Elsa von Freytag-Loringhoven, Morton Livingston Schamberg and Marcel Duchamp.](https://bardionson.com/wp-content/uploads/2021/07/TheThroneOfGod-1024x1024.jpg)
+![The throne (toilet) sits in a marble white room. An homage to Elsa von Freytag-Loringhoven, Morton Livingston Schamberg and Marcel Duchamp.](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/toilet/TheThroneOfGod.jpg)
 
 The throne sits in a marble white room. An homage to Elsa von Freytag-Loringhoven, Morton Livingston Schamberg and Marcel Duchamp.
 

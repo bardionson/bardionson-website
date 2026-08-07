@@ -6,7 +6,7 @@ excerpt: >-
   Manassas VA June 2019.
 image: null
 ---
-![](https://bardionson.com/wp-content/uploads/2022/10/Phosphene.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/Phosphene.jpg)
 
 # ARTificial
 
@@ -29,9 +29,9 @@ Manassas VA June 2019
 
 [KnownOrigin](http://bit.ly/Knownorigin) – “[Digital art by a true pioneer](https://twitter.com/KnownOrigin_io/status/1115379292119031809)“
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-25.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-25.png)
 
-![](https://bardionson.com/wp-content/uploads/2021/07/TheHODL-Frame.gif)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/TheHODL-Frame.gif)
 
 The HODL Frame
 
@@ -57,9 +57,9 @@ Giclee on Canvas Digital 24 x 24 in. Artificial Intelligence Robbie Barrat Lands
 
 A possible future where the memories of landscapes which have been destroyed are stored in an AI model. The AI becomes defective and generates these vague dreams or memories of landscapes.
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-26-957x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-26.png)
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-27-926x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-27.png)
 
 ### Big Net Of Dreams
 
@@ -69,7 +69,7 @@ The dreams of the neural network. Modeled from 20,000 oscilloscope art images o
 
 ### Big Net Of Dreams
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-28-1024x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-28.png)
 
 Original Digital Version
 
@@ -79,9 +79,9 @@ Metallic Photo Paper Digital 16 x 16 in Artificial Intelligence
 
 In this image I saw lots of people dancing in brightly lit night scene. It is made by combining a nude model of historical nude public domain paintings with the oscilloscope line drawings. Nude model trained by Robbie Barrat
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-29-1005x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-29.png)
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-30-1024x1009.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-30.png)
 
 ### Faces In The Cloud
 
@@ -115,7 +115,7 @@ Giclee on Canvas Digital 16 x 20 in. Artificial Intelligence
 
 With Robbie’s portrait AI model and the artists Trump model it tells a story of poor leaders being refined away with the flames of sovereign history.
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-31.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-31.png)
 
 ### One Whole & Stone Rose Token
 
@@ -123,15 +123,15 @@ Giclee on Canvas Digital 16 x 16 in. Artificial Intelligence
 
 What is money and art and what makes it valuable? Generated using 20,000 image of coins and cryptocurrency logos. All art in the show has a digital twin that is traded online with cryptocurrency.
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-32.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-32.png)
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-33-1024x768.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-33.png)
 
 ### Bull Run Library Entrance Right Display
 
 ### Bull Run Library Entrance Left Display
 
-![](https://bardionson.com/wp-content/uploads/2022/10/image-34-1024x768.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/artificiallibrary-html/image-34.png)
 
 ### Share this:
 

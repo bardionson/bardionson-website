@@ -7,7 +7,7 @@ date: '2022-01-01'
 
 Digital AI
 
-![There is Nothing Wrong 2019](http://bardionson.com/wp-content/uploads/2021/07/ThereIsNothingWrong.jpg)
+![There is Nothing Wrong 2019](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/ThereIsNothingWrong.jpg)
 
 ## About
 
@@ -41,7 +41,7 @@ Technical: art-dcgan a project forked from [DCGAN.torch](https://github.com/soum
 
 ![](https://ipfs.pixura.io/ipfs/QmZPVPkT8hQBo7JLWtnh8vVsACeRXC64DnyLANngWgueCK/twofaced.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2021/07/StarkNakedFraudSm.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/StarkNakedFraudSm.jpg)
 
 ![](https://ipfs.pixura.io/ipfs/QmNXHDDvZK6WioccaUp8DGAgv2kt7aXQWN6f78TSkXf9LU/artificial-john-barron.jpg)
 
@@ -49,127 +49,127 @@ Technical: art-dcgan a project forked from [DCGAN.torch](https://github.com/soum
 
 [nft_owner_simp art='0x41a322b28d0ff354040e2cbc676f0320d8c8850d/3125']
 
-![Rejected images from the Art-dcgan model. A few were turned into NFT art](http://bardionson.com/wp-content/uploads/2021/07/trump_3_100_2.jpeg)
+![Rejected images from the Art-dcgan model. A few were turned into NFT art](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/trump_3_100_2.jpeg)
 
 In the production of art using artificial intelligence or machine learning techniques most of the manual time is spent selecting images to train the model and then time to curate the best output. Sometimes the model needs to be retrained if the output is not what the artist wants. 
 
-![Rejected AI Glitch Image of Trump](http://bardionson.com/wp-content/uploads/2021/07/trump_o_5.jpeg)
+![Rejected AI Glitch Image of Trump](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/trump_o_5.jpeg)
 
-![Rejected images from the Art-dcgan model. A few were turned into NFT art](http://bardionson.com/wp-content/uploads/2021/07/trump_3_65.jpg)
+![Rejected images from the Art-dcgan model. A few were turned into NFT art](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/trump_3_65.jpg)
 
 From this panel I only selected one or two art works to refine. After selecting one or more image much time spent enhancing, animating and enlarging the images to prepare them for minting. I was excited to see that the crawling text at the bottom started to be legible. 
 
-![Rejected AI Glitch Image of Trump](http://bardionson.com/wp-content/uploads/2021/07/trump_3_100_5.jpeg)
+![Rejected AI Glitch Image of Trump](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/trump_3_100_5.jpeg)
 
 ### Some Images Used to Train the AI/ML Model
 
-![](http://bardionson.com/wp-content/uploads/2021/07/150916220107-trump-debate-faces-split-super-169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/150916220107-trump-debate-faces-split-super-169.jpg)
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_031.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/pic_031.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_074.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/pic_074.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/pic_169.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1559.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tBusinessDealRussia1559.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1563.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tBusinessDealRussia1563.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFaceDebate1739.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFaceDebate1739.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0009.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0009.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0093.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0093.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0122.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0122.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0235.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0235.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0368.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0368.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0371.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0371.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0414.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0414.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0473.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0473.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0954.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN0954.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1404.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN1404.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1733.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN1733.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1832.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN1832.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1873.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFacesCNN1873.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0249.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFavoriteWordsCNN0249.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0531.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFavoriteWordsCNN0531.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0697.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFavoriteWordsCNN0697.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0771.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFavoriteWordsCNN0771.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0971.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tFavoriteWordsCNN0971.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12510.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tKavenaugh12510.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12634.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tKavenaugh12634.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12663.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tKavenaugh12663.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12724.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tKavenaugh12724.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia0442.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/tBusinessDealRussia0442.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_046.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/pic_046.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_063.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/pic_063.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1445.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf1445.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1392.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf1392.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1207.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf1207.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1189.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf1189.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf0693.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf0693.jpg)
 
 [/nft_owner_simp]

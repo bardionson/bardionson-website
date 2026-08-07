@@ -41,25 +41,25 @@ Let’s create, together, the future of art.
 
 ARAB BANK
 
-![](https://bardionson.com/wp-content/uploads/2025/06/TheArtGallerySign-614x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/TheArtGallerySign.jpg)
 
-![](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/172_day2_lisbon-sm-1024x683.jpg?ssl=1)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/172_day2_lisbon-sm.jpg)
 
-![From the patio of Palácio Tancos](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/147_day2_lisbon-sm-1024x683.jpg?ssl=1)
+![From the patio of Palácio Tancos](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/147_day2_lisbon-sm.jpg)
 
-![From the patio of Palácio Tancos](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/145_day2_lisbon-sm-1024x682.jpg?ssl=1)
+![From the patio of Palácio Tancos](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/145_day2_lisbon-sm.jpg)
 
-![](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/112_day1_lisbon-sm-1024x683.jpg?ssl=1)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/112_day1_lisbon-sm.jpg)
 
-![Four of the artists talk including Cezar and Bård in front of their art](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/089_day1_lisbon-sm-1024x683.jpg?ssl=1)
+![Four of the artists talk including Cezar and Bård in front of their art](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/089_day1_lisbon-sm.jpg)
 
-![watching and listening to World Upstream in the art gallery](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/073_day1_lisbon-sm-1024x683.jpg?ssl=1)
+![watching and listening to World Upstream in the art gallery](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/073_day1_lisbon-sm.jpg)
 
-![Patio at Palácio Tancos the Artist Villa](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/032_day2_bis-sm-1024x682.jpg?ssl=1)
+![Patio at Palácio Tancos the Artist Villa](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/032_day2_bis-sm.jpg)
 
-![](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/020-sm-1024x683.jpg?ssl=1)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/020-sm.jpg)
 
-![](https://i0.wp.com/bardionson.com/wp-content/uploads/2025/06/018-sm-1024x683.jpg?ssl=1)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/the-artist-villa-lisbon-2025/018-sm.jpg)
 
 ### Share this:
 

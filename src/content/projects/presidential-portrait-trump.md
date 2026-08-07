@@ -47,11 +47,11 @@ This Presidential Portrait will appear in Outside Forces 2021 at [Art Enables](h
 
 ## Other art pieces from the Trump / Portrait Model
 
-![](http://bardionson.com/wp-content/uploads/2021/07/ThereIsNothingWrong.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/ThereIsNothingWrong.jpg)
 
 ![](https://ipfs.pixura.io/ipfs/QmVdB3ZgtLMbRaipp3egDnTLzSFdQTPCJVSrpC9z71G8UB/burning-off-the-dross.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2021/07/StarkNakedFraudSm.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/StarkNakedFraudSm.jpg)
 
 ![](https://ipfs.pixura.io/ipfs/QmSwWuCs6oFiSWXH6Zjs93DoTgZZywdXw8YfztkuALLHpB/one-looks.jpg)
 
@@ -63,151 +63,151 @@ This Presidential Portrait will appear in Outside Forces 2021 at [Art Enables](h
 
 open until purchase
 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile011.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile011.png)
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile010.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile010.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile009.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile009.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile008.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile008.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile007.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile007.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile006.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile006.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile005.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile005.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile004.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile004.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile003.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile003.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile002.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile002.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile001.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile001.png)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tile000.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile000.png)
 
 **The series of images used in the gif**
 
 ### Some Images Used to Train the AI/ML Model
 
-![](http://bardionson.com/wp-content/uploads/2021/07/150916220107-trump-debate-faces-split-super-169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/150916220107-trump-debate-faces-split-super-169.jpg)
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_031.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/pic_031.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_074.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/pic_074.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/pic_169.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1559.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tBusinessDealRussia1559.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1563.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tBusinessDealRussia1563.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFaceDebate1739.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFaceDebate1739.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0009.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0009.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0093.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0093.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0122.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0122.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0235.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0235.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0368.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0368.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0371.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0371.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0414.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0414.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0473.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0473.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0954.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN0954.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1404.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN1404.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1733.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN1733.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1832.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN1832.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1873.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFacesCNN1873.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0249.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFavoriteWordsCNN0249.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0531.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFavoriteWordsCNN0531.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0697.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFavoriteWordsCNN0697.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0771.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFavoriteWordsCNN0771.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0971.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tFavoriteWordsCNN0971.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12510.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tKavenaugh12510.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12634.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tKavenaugh12634.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12663.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tKavenaugh12663.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12724.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tKavenaugh12724.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia0442.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tBusinessDealRussia0442.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_046.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/pic_046.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_063.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/pic_063.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1445.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf1445.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1392.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf1392.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1207.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf1207.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1189.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf1189.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf0693.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf0693.jpg)
 
 [/nft_owner_simp]

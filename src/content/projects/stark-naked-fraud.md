@@ -23,7 +23,7 @@ Sold on [SuperRare](https://superrare.com/artwork-v2/sage-anomaly-redux-8596)
 
 **2045 × 2045** Px 2020
 
-![](http://bardionson.com/wp-content/uploads/2021/07/StarkNakedFraudSm.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/StarkNakedFraudSm.jpg)
 
 ### Artist notes:
 
@@ -49,126 +49,126 @@ This is an image from art-dcgan generated from a model trained by Robbie Barrat.
 
 ![](https://ipfs.pixura.io/ipfs/QmTT3jqRuYgCAXw5riYnLi3UnXqyi6ohi5eooA9X9H5rd4/only-the-wise-see.jpg)
 
-![36 Proofs of Nude Trump (this proof panel contains the Stark Naked Fraud)](http://bardionson.com/wp-content/uploads/2021/07/nude_trump_1_1_2.jpg)
+![36 Proofs of Nude Trump (this proof panel contains the Stark Naked Fraud)](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/nude_trump_1_1_2.jpg)
 
 In the production of art using artificial intelligence or machine learning techniques most of the manual time is spent selecting images to train the model and then time to curate the best output. Sometimes the model needs to be retrained if the output is not what the artist wants. This panel was quite productive in the number of art pieces I selected from it. Other panels were discarded as they yielded junk.
 
-![36 tiles of AI nude portraits from ai, that look like paintings of fleshy blobs used to mint NFTs](http://bardionson.com/wp-content/uploads/2021/07/nude_trump_1_1_1.jpg)
+![36 tiles of AI nude portraits from ai, that look like paintings of fleshy blobs used to mint NFTs](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/nude_trump_1_1_1.jpg)
 
 From this panel I only selected one or two art works to refine. After selecting one or more image I spend a lot of time enhancing, animating and enlarging the images to prepare them for minting.
 
 ### Some Images Used to Train the AI/ML Model
 
-![](http://bardionson.com/wp-content/uploads/2021/07/150723122234-donald-trump-july-22-2015-super-169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/150723122234-donald-trump-july-22-2015-super-169.jpg)
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/150916220107-trump-debate-faces-split-super-169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/150916220107-trump-debate-faces-split-super-169.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_031.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/pic_031.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_074.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/pic_074.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_169.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/pic_169.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1559.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tBusinessDealRussia1559.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia1563.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tBusinessDealRussia1563.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFaceDebate1739.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFaceDebate1739.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0009.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0009.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0093.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0093.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0122.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0122.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0235.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0235.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0368.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0368.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0371.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0371.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0414.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0414.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0473.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0473.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN0954.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN0954.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1404.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN1404.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1733.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN1733.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1832.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN1832.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFacesCNN1873.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFacesCNN1873.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0249.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFavoriteWordsCNN0249.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0531.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFavoriteWordsCNN0531.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0697.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFavoriteWordsCNN0697.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0771.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFavoriteWordsCNN0771.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tFavoriteWordsCNN0971.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tFavoriteWordsCNN0971.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12510.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tKavenaugh12510.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12634.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tKavenaugh12634.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12663.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tKavenaugh12663.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tKavenaugh12724.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tKavenaugh12724.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/tBusinessDealRussia0442.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/tBusinessDealRussia0442.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_046.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/pic_046.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/pic_063.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/pic_063.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1445.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf1445.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1392.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf1392.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1207.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf1207.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf1189.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf1189.jpg)
 
 - 
-![](http://bardionson.com/wp-content/uploads/2021/07/atFaceDebateHalf0693.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf0693.jpg)
 
 [/nft_owner_simp]

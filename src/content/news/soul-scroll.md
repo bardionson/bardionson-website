@@ -5,10 +5,10 @@ date: '2022-10-27'
 
 Coming Soon
 
-![](http://bardionson.com/wp-content/uploads/2022/11/soulScrollPoster4.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll/soulScrollPoster4.png)
 
-![](http://bardionson.com/wp-content/uploads/2022/10/soulScrollPoster1.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll/soulScrollPoster1.png)
 
-![](http://bardionson.com/wp-content/uploads/2022/11/soulScrollPoster5.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll/soulScrollPoster5.png)
 
-![](http://bardionson.com/wp-content/uploads/2022/10/image-49-860x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll/image-49.png)

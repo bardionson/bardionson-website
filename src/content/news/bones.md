@@ -21,25 +21,25 @@ The spirit of Georgia O’Keeffe has been a constant companion on this project. 
 
 Following in that tradition, I spent months creating the source material for this work. I gathered animal bones and photographed them against the sky, using a mix of 1,500 film and digital cameras.
 
-![](https://bardionson.com/wp-content/uploads/2024/06/IMG_7761-print-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/bones/IMG_7761-print.jpg)
 
 Deer Leg Digital
 
-![](https://bardionson.com/wp-content/uploads/2024/06/000050420055-print-sm-v-683x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/bones/000050420055-print-sm-v.jpg)
 
 Springbok Skull Film
 
-![](https://bardionson.com/wp-content/uploads/2024/06/000050420028-print-sm-v-1024x683.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/bones/000050420028-print-sm-v.jpg)
 
 Leg Film
 
-![](https://bardionson.com/wp-content/uploads/2024/06/000069660028-print-3-2-sm-v-1024x679.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/bones/000069660028-print-3-2-sm-v.jpg)
 
 Deer Skull Film
 
 My goal was to build a unique photographic language, one that the AI could learn from but not perfectly replicate. The work intentionally blurs the line between reality, photographic reality, and an artificial reality, constantly questioning what is authentic. A key to this was using film,
 
-![Bard Photographing Bones In The Sky laying on the grass with bones floating above him](https://bardionson.com/wp-content/uploads/2025/08/1-wip-000017910017-sm-755x1024.jpg)
+![Bard Photographing Bones In The Sky laying on the grass with bones floating above him](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/bones/1-wip-000017910017-sm.jpg)
 
 Bard Photographing Bones In The Sky on film
 

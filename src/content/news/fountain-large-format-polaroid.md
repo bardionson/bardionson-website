@@ -7,7 +7,7 @@ excerpt: >-
 image: >-
   https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/fountain-large-format-polaroid/fountain-0000405-1536x1536.jpg
 ---
-![](https://bardionson.com/wp-content/uploads/2024/04/fountain405-polaroid-sm-583x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/fountain-large-format-polaroid/fountain405-polaroid-sm.jpg)
 
 Fountain #405 Ai art large format Polaroid
 
@@ -23,7 +23,7 @@ This signed original is available for purchase with the original NFT and an NFT 
 
 The color is quite muted because of the age of the film but it still looks amazing.
 
-[![Fountain #405 from a collection of 501 Ai art pieces made with GAN. It was made by training on thousands of images of toilets](https://bardionson.com/wp-content/uploads/2024/04/fountain-0000405-1024x1024.jpg)](https://opensea.io/assets/ethereum/0x3ac9ef13007e2f8ad860a77f5fdf14696acf1e02/405)
+[![Fountain #405 from a collection of 501 Ai art pieces made with GAN. It was made by training on thousands of images of toilets](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/fountain-large-format-polaroid/fountain-0000405.jpg)](https://opensea.io/assets/ethereum/0x3ac9ef13007e2f8ad860a77f5fdf14696acf1e02/405)
 
 Fountain #405 from a collection of 501 Ai art pieces made with a GAN
 

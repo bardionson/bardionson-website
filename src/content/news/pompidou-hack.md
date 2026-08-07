@@ -13,19 +13,19 @@ April 5 2023
 
 NFT CryptoArt was acquired by Centre Pompidou France’s premier museum of modern art.
 
-![](https://bardionson.com/wp-content/uploads/2023/08/image-1-768x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/pompidou-hack/image-1.png)
 
 As part of this acquisition the Pompidou move the art pieces into a wallet, which allowed an opportunity to “donate” more art into the collection (or at least the wallet). Dan Polko [https://twitter.com/DanPolko](https://twitter.com/DanPolko) a collector of Deep Fake Max (Artificial Artist) by Bård sent it into the wallet, which made it part of the unofficial Pompidou collection.
 
 The full contents of the wallet can be seen at [https://rainbow.me/0xa03f663e53d878731ba92da4442b92ac7dbf0221](https://rainbow.me/0xa03f663e53d878731ba92da4442b92ac7dbf0221)
 
-![](https://bardionson.com/wp-content/uploads/2023/08/image-4-1024x593.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/pompidou-hack/image-4.png)
 
-![](https://bardionson.com/wp-content/uploads/2023/08/image-2-1024x768.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/pompidou-hack/image-2.png)
 
 Many other artists and collectors sent art to the wallet while it was still open. Eventually they figured out how to lock the wallet.
 
-![](https://bardionson.com/wp-content/uploads/2023/08/image-3-768x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/pompidou-hack/image-3.png)
 
 On April 5th the [NFT Factory](https://nftfactoryparis.com/) held a special showing and event to commemorate the hack. It was covered by the [French press](https://www.telerama.fr/sortir/des-nft-au-centre-pompidou-comment-exposer-l-immateriel-7015042.php).
 

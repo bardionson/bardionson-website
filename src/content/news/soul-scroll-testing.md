@@ -5,9 +5,9 @@ date: '2022-05-29'
 
 It is on Rinkeby so don't send it real eth.
 
-![](http://bardionson.com/wp-content/uploads/2022/10/IMG_5078sm.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/IMG_5078sm.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2022/10/IMG_5079sm.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/IMG_5079sm.jpg)
 
 It is on-chain and has interactive elements and it has a financial component. I would really appreciate any feedback. I am working on refining the interface and the pricing and profit sharing structure. I am planning on using Optimism but some people want me to put it on Ethereum. It is just the price of gas might prevent people from using it.
 
@@ -21,19 +21,19 @@ But I can add wallets to an allow list and if they pay the dues they are allowed
 
 When a prayer is minted it is saved on chain as an svg file. [https://testnets.opensea.io/assets/soul-scroll-6](https://testnets.opensea.io/assets/soul-scroll-6)
 
-![A Prayer from Soul Scroll](http://bardionson.com/wp-content/uploads/2022/05/image-1.png)
+![A Prayer from Soul Scroll](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/image-1.png)
 
 It is never minted again.
 
 But the prayer will be read out the number of times they select on a prayer machine I created. The machine prints out the prayer as a QRcode and a camera detects it and a computer voice speaks the prayer out loud.
 
-![Switch to Rinkeby in Metamask](http://bardionson.com/wp-content/uploads/2022/05/image-612x1024.png)
+![Switch to Rinkeby in Metamask](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/image.png)
 
 You will need some free Eth from Rinkeby faucet [https://rinkebyfaucet.com/](https://rinkebyfaucet.com/)
 
-![Pay for a prayer select number of times to have it read](http://bardionson.com/wp-content/uploads/2022/05/image-2-1024x642.png)
+![Pay for a prayer select number of times to have it read](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/image-2.png)
 
-![If you are on the approval list you can pay dues and write prayers](http://bardionson.com/wp-content/uploads/2022/05/image-4-1024x934.png)
+![If you are on the approval list you can pay dues and write prayers](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-testing/image-4.png)
 
 ## The Prayer Reader
 

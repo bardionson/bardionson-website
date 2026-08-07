@@ -3,35 +3,35 @@ title: Learn How to Kill Them All by Putin
 date: '2022-01-01'
 ---
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinColor-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinColor.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinHorns-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinHorns.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinGoldHornsKremlin-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinGoldHornsKremlin.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinHornsKremlin-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinHornsKremlin.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinMergeFaces-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinMergeFaces.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinOrthodox-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinOrthodox.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanBowlCut-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanBowlCut.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanCow-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanCow.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanForeheadEye-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanForeheadEye.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanGoldHorns2-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanGoldHorns2.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanHornsRed2-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanHornsRed2.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanInRed-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanInRed.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinSatanRedSquare-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinSatanRedSquare.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinWithForkHorns-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinWithForkHorns.jpg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinWithSatan-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinWithSatan.jpg)
 
 ## Kill Them All
 
@@ -39,19 +39,19 @@ Inspired by these and more Lawrence Lee created "Kill Them All". Lawrence used P
 
 Here are some of the variations Lawrence Created:
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinForhead.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinForhead.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinNuke.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinNuke.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinRocketMan.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinRocketMan.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/Putinshroomsmearyoil02.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/Putinshroomsmearyoil02.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinshroomredface.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinshroomredface.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putin2c.jpeg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putin2c.jpeg)
 
-![](http://bardionson.com/wp-content/uploads/2023/02/putinFirstOne-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/putinFirstOne.jpg)
 
 ## An Exhibition
 
@@ -59,7 +59,7 @@ About the time we were getting close to finished piece [Eleonora Brizi](https://
 
 To create a video version to sell I created a video of the best faces of Putin morphing into each other as he becomes more grotesque as his evil grows. But it was not quite right.
 
-![](http://bardionson.com/wp-content/uploads/2023/02/image-982x1024.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/putin/image.png)
 
 ## Direct Links
 

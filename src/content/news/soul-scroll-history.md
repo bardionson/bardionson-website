@@ -21,7 +21,7 @@ But I can add wallets to an allow list and if they pay the dues they are allowed
 
 When a prayer is minted it is saved on chain as an svg file. [https://testnets.opensea.io/assets/soul-scroll-6](https://testnets.opensea.io/assets/soul-scroll-6)
 
-![](https://bardionson.com/wp-content/uploads/2022/05/image-1.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/soul-scroll-history/image-1.png)
 
 A Prayer from Soul Scroll
 

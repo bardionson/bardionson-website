@@ -9,9 +9,9 @@ image: >-
 ---
 As seen at the Presidio San Francisco
 
-![](https://bardionson.com/wp-content/uploads/2022/10/IMG_4133-576x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/mind/IMG_4133.jpg)
 
-![](https://bardionson.com/wp-content/uploads/2022/10/IMG_4124-576x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/mind/IMG_4124.jpg)
 
 Available on [SuperRare](https://superrare.com/series/0x62e63b40ae0f1618fc8e422b8cea28a69ccd5d41?market-options=%257B%2522listPrice%2522%3Afalse%2C%2522reservePrice%2522%3Afalse%2C%2522liveAuctions%2522%3Afalse%2C%2522upcomingAuctions%2522%3Afalse%2C%2522hasSold%2522%3Afalse%2C%2522openOffers%2522%3Afalse%2C%2522ownedByCreator%2522%3Afalse%2C%2522neverReceivedOffer%2522%3Afalse%2C%2522image%2Fjpeg%2522%3Afalse%2C%2522model%2Fgltf-binary%2522%3Afalse%2C%2522image%2Fgif%2522%3Afalse%2C%2522video%2Fmp4%2522%3Afalse%2C%2522showEth%2522%3Afalse%2C%2522showRare%2522%3Afalse%2C%2522interactive%2522%3Afalse%2C%2522primarySale%2522%3Afalse%2C%2522secondarySale%2522%3Afalse%2C%2522attributes%2522%3A%257B%257D%2C%2522first%2522%3A30%2C%2522fileTypes%2522%3Anull%2C%2522lowerPriceRange%2522%3A0%2C%2522upperPriceRange%2522%3A100000%257D)
 

@@ -85,7 +85,7 @@ Internet Dweller jwsg.thirteen.xulf
 
 Mark was able to find the remaining images of the Internet Dwellers that have have not appeared in online sources yet. Mark informed me that as the exhibition traveled around collectors would purchase an Internet Dweller. Then Nam June Paik and his fabricators would produce a new one and put it on display. In the video catalog of “The Electronic Super Highway: Jam June Paik in the Nineties” five of the Internet Dwellers are shown displayed on one wall.
 
-![](https://bardionson.com/wp-content/uploads/2021/11/internetDwellerFiveOnWall-1024x768.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/nam-june-paik-spoke-to-me-from-the-other-side/internetDwellerFiveOnWall.jpg)
 
 Five Internet Dwellers on exhibition
 

@@ -15,17 +15,17 @@ The Color Magic Planets project sold out on Art Blocks with 256 pieces. [Read mo
 
 But now I am buying them off the floor to create real life art pieces to hang. They are 10 inches square and come with five different colored backgrounds to fit any decor.
 
-![](https://bardionson.com/wp-content/uploads/2023/06/IMG_5998-shelf-pink-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/color-magic-planets-irl/IMG_5998-shelf-pink.jpg)
 
 When you purchase from this specific account / wallet I will mail you the framed art piece when you buy the NFT. The price is 1.1 Eth. Available on [Sansa](https://sansa.xyz/wallets/0x8Fd5D303Fc1E8c176cf90E5d4046798Ef3Ec13e0) and [Art Blocks](https://www.artblocks.io/user/0x8fd5d303fc1e8c176cf90e5d4046798ef3ec13e0). Any of the Color Magic Planets can be purchased and I will create a physical version of it. (There are some countries I cannot ship to from the USA)
 
-![](https://bardionson.com/wp-content/uploads/2023/06/IMG_5990-wall-yel-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/color-magic-planets-irl/IMG_5990-wall-yel.jpg)
 
 And here are my art supplies from The Met. The Metropolitan Museum of Art
 
-![](https://bardionson.com/wp-content/uploads/2023/06/colorMagicBooks-1024x768.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/color-magic-planets-irl/colorMagicBooks.jpg)
 
-![](https://bardionson.com/wp-content/uploads/2023/06/colorMagicLogo-1024x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/color-magic-planets-irl/colorMagicLogo.jpg)
 
 ### Share this:
 

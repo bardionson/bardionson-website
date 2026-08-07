@@ -25,11 +25,11 @@ The Christian comic books repeat the judgement day to show the sin of your life 
 
 Then one day I left that belief behind and that night had an intense dream about burning in hell. I thought it was out of my system but my art exposes me yet again.
 
-![Anxiety Of Hell a human form that is fire with what looks like a question mark above their head](https://bardionson.com/wp-content/uploads/2024/07/1-AnxietyOfHell-seed1780Portrait-sm-576x1024.jpg)
+![Anxiety Of Hell a human form that is fire with what looks like a question mark above their head](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/why-fire-and-nakedness/1-AnxietyOfHell-seed1780Portrait-sm.jpg)
 
 Naked Flames: Anxiety Of Hell
 
-![](https://bardionson.com/wp-content/uploads/2024/07/1_SinsOfFlesh-seed1609Portrait1-sm-576x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/why-fire-and-nakedness/1_SinsOfFlesh-seed1609Portrait1-sm.jpg)
 
 Naked Flames: Sins Of Flesh
 

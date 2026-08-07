@@ -15,11 +15,11 @@ A food bank with people happy to get the food for christmas off the shelves phot
 
 Dalle make a photo of A food bank with people happy to get the food for christmas off the shelves photorealistic
 
-![](https://bardionson.com/wp-content/uploads/2024/01/DALL·E-A-photorealistic-image-of-a-food-bank-during-Christmas-The-scene-shows-shelves-stocked-with-various-foods-including-canned-goods-bread-and-fresh.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/christmas-charity/DALL%C2%B7E-A-photorealistic-image-of-a-food-bank-during-Christmas-The-scene-shows-shelves-stocked-with-various-foods-including-canned-goods-bread-and-fresh.png)
 
 now make it surrealistic
 
-![](https://bardionson.com/wp-content/uploads/2024/01/DALL·E-surrealistic-depiction-foodbank.png)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/christmas-charity/DALL%C2%B7E-surrealistic-depiction-foodbank.png)
 
 Here is a surrealistic depiction of a food bank during Christmas, with a dream-like and magical atmosphere.
 

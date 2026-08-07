@@ -15,11 +15,11 @@ Captions for each art piece will take you to to the sales site. A Ethereum walle
 
 [Vineyard Mountain](https://app.manifold.xyz/c/vineyard-mtn)
 
-![](https://bardionson.com/wp-content/uploads/2022/11/ss-DigitalSide-721x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/digital-art-fair-nyc/ss-DigitalSide.jpg)
 
 [Digital Side](https://app.manifold.xyz/c/digital-side)
 
-![](https://bardionson.com/wp-content/uploads/2022/11/ss-soulwindow-745x1024.jpg)
+![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/digital-art-fair-nyc/ss-soulwindow.jpg)
 
 [Soul Window](https://app.manifold.xyz/c/soul-window)
 

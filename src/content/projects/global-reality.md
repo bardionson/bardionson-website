@@ -9,7 +9,7 @@ date: '2021-07-27'
 
 Digital AI video collage
 
-![Global Reality Still Frame](http://bardionson.com/wp-content/uploads/2021/07/globalReality14Sm-1024x576.png)
+![Global Reality Still Frame](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/global-reality/globalReality14Sm.png)
 
 ### Press
 

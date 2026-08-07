@@ -22,7 +22,7 @@ Bård Ionson’s new interactive installation, set to premiere at the Art Blocks
 
 This subverts the typical process, making a tangible object the gateway to its immutable on-chain twin. It’s the culmination of a career-long obsession for Ionson, who has consistently explored the digital-physical bridge, notably by creating and mailing physical versions of his ‘Color Magic Planets’ NFTs to collectors.
 
-[![](https://bardionson.com/wp-content/uploads/2023/06/IMG_5998-shelf-pink-1024x1024.jpg)](https://bardionson.com/color-magic-planets-irl/)
+[![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/from-code-to-canvas-4-surprising-truths-about-the-future-of-generative-art/IMG_5998-shelf-pink.jpg)](https://bardionson.com/color-magic-planets-irl/)
 
 Color Magic Planets Physical
 

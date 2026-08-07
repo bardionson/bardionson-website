@@ -5,7 +5,7 @@ date: '2021-11-13'
 
 # NEED WANT
 
-![NEED](http://bardionson.com/wp-content/uploads/2021/11/needFaceStill-1024x573.jpg)
+![NEED](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/ion/needFaceStill.jpg)
 
 ### Retro future ion fusion of CRT, o-scope, lasers to project life and death on an alternate timeline.
 
@@ -19,10 +19,10 @@ NEED
 
 In the beginning there is only need. The past is the future of history. A 4k re-imagination of the XCOPY art pieces called WANT inspired by the techniques of Matt Kane and Coldie. From an original drawing by the artist. The second art piece is inspired by the first. The opposite of want. As a baby all it can do is need. The sound is overwhelming as the lines fluxuate all around.
 
-![NEED in progress](http://bardionson.com/wp-content/uploads/2021/11/sketchOfNeed-1024x625.jpg)
+![NEED in progress](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/ion/sketchOfNeed.jpg)
 
 The art was hand sketched, scanned and traced into vector lines and then composed into an oscilloscope. The layers were carefully laid out in 3D space in After Effects and a camera fly through was animated.
 
-![WANT](http://bardionson.com/wp-content/uploads/2021/11/wantFaceStill-1024x674.jpg)
+![WANT](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/ion/wantFaceStill.jpg)
 
 https://vimeo.com/645620796
