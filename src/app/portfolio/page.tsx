@@ -8,7 +8,8 @@ export default function PortfolioPage() {
             description: "Double Take #1 with Hash Gallery. Extending my interest in elemental materials, transformation, and the slow grammar of the moving image.",
             link: "https://www.hashgallery.digital/double-take-1",
             platform: "Hash Gallery",
-            image: ""
+            image: "",
+            video: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/Bard_Ionson-FireAndBone-sm.mp4"
         },
         {
             title: "Vanishing Of The Genuine: Bone Flag",
@@ -92,7 +93,7 @@ export default function PortfolioPage() {
             description: "A tribute to Duchamp's Fountain — remixed through the lens of crypto art and generative systems. Available on Fountain.",
             link: "https://fountain-art.com",
             platform: "Fountain",
-            image: ""
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/fountain-large-format-polaroid/fountain-0000405.jpg"
         }
     ];
 
@@ -116,7 +117,16 @@ export default function PortfolioPage() {
                     {works.map((work, i) => (
                         <div key={i} className={`glassmorphism rounded-3xl p-8 flex flex-col md:flex-row ${i % 2 !== 0 ? 'md:flex-row-reverse' : ''} gap-8 items-center hover:border-primary/30 transition-all group`}>
                             <div className="w-full md:w-2/5 aspect-square bg-white/5 rounded-2xl overflow-hidden relative group-hover:shadow-[0_0_30px_rgba(129,140,248,0.15)] transition-all">
-                                {work.image ? (
+                                {work.video ? (
+                                    <video
+                                        src={work.video}
+                                        autoPlay
+                                        loop
+                                        muted
+                                        playsInline
+                                        className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                    />
+                                ) : work.image ? (
                                     <Image
                                         src={work.image}
                                         alt={work.title}
