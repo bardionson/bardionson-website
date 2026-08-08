@@ -13,6 +13,14 @@ export default function ExhibitionsPage() {
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/exhibitions/spiral-superrare-2026/lattice-hero.jpg"
         },
         {
+            title: "Balloons In The Sky — NFC Summit Lisbon",
+            date: "May 27–29, 2026",
+            venue: "Unicorn Factory Lisbon, Lisbon, Portugal — presented by HASH Gallery",
+            description: "The third and final act of The Simulation Trilogy. A custom StyleGAN model generates continuous balloon imagery on a 75\" screen — visitors press a button to freeze the stream, minting a 1/1 NFT on Ethereum mainnet and receiving an archival print. 171 NFTs minted live onsite.",
+            link: "/exhibitions/balloons-in-the-sky-lisbon-2026",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/IMG_5111%20copy.jpg"
+        },
+        {
             title: "Bones In The Sky — Marfa",
             date: "October 16 – 19, 2025",
             venue: "Art Blocks Weekend, Marfa, Texas",
@@ -79,7 +87,7 @@ export default function ExhibitionsPage() {
         slug?: string;
     };
 
-    const historicExhibitions = getAllExhibitions().filter(ex => ex.slug !== 'spiral-superrare-2026');
+    const historicExhibitions = getAllExhibitions().filter(ex => !['spiral-superrare-2026', 'balloons-in-the-sky-lisbon-2026'].includes(ex.slug));
 
     // Combine modern and historic
     const exhibitions: Exhibition[] = [
