@@ -21,6 +21,14 @@ The price will be set at an affordable 0.05 ETH and there will be two legendary 
 
 Find out more at [SAGE Anomaly](http://sageanomaly.com) and [Async.art](http://async.art)
 
+### Physical Installation (Concept)
+
+Concept renders for an upcoming physical installation extending the SAGE Anomaly story into gallery space. Full documentation of the finished installation will get its own page once it's built.
+
+![SAGE Diagnostics Apparatus gallery concept](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/sageanomaly/installation-concept-gallery.png)
+
+![SAGE Core spiral schematic desk concept](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/sageanomaly/installation-concept-desk.png)
+
 ### Share this:
 
 *   [Share on X (Opens in new window) X](https://bardionson.com/sageanomaly/?share=twitter)

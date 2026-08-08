@@ -55,7 +55,7 @@ I was fascinated by I-Ching and its relation to the development of binary system
 Tai Chi Pa Kua Tu, the diagram of Tai Chi with Eight Trigrams  
 **中文（简体）:** 太极八卦图 [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ichingcoins.JPG/2560px-Ichingcoins.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/9/92/Ichingcoins.JPG)
 
 By CD343 – Public Domain, https://commons.wikimedia.org/w/index.php?curid=12151316
 
@@ -103,7 +103,7 @@ One day when I was in middle school I found this book at the library about a the
 
 ## 8\. And the Magic 8 Ball
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Magic8ball.jpg/440px-Magic8ball.jpg)](https://en.wikipedia.org/wiki/Magic_8-Ball)
+[![](https://upload.wikimedia.org/wikipedia/commons/9/90/Magic8ball.jpg)](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
 [Wikipedia 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball)
 

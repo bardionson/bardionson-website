@@ -19,7 +19,7 @@ Bård Ionson with inspiration daughter Liza Grace who was inspired by a toy from
 
 Generative artwork made from code inspired by the shapes and colors of childhood and the exploration of planets. Where translucent vinyl shapes overlay to create new colors to spark the imagination. Using the unique transaction hash the location of shapes and their colors are selected.
 
-![](https://cent.imgix.net/740e7cf4-7368-434c-81bc-abaf26c79324.jpeg?fit=clip&w=1792&h=946)
+![](https://assets.objkt.media/file/assets-003/QmdZMazKZDsrgvLFT8MWwpbJX8KoKq29e3UPJMJrh1KBCF/artifact)
 
 Based on an original artwork by Liza Grace “[Colorform Multiverse](https://www.hicetnunc.xyz/objkt/12431)” in which she created from the vinyl pieces from the Color Magic Sticker Book produced by The MET. Using cyan, yellow and magenta translucent circles, arcs, triangles and rectangles an abstract work was created to produce unique color combinations. An artwork that is inspired by childhood play and learning.
 

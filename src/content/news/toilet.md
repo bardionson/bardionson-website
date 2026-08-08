@@ -21,7 +21,7 @@ It is made from an AI model I trained on toilets. Inspired by the sculptures cal
 
 ### Fountain Inspired by God
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Morton_Schamberg_-_%22God%22_By_Baroness_Elsa_von_Freytag-Loringhoven_and_Morton_Schamberg_-_Google_Art_Project.jpg/962px-Morton_Schamberg_-_%22God%22_By_Baroness_Elsa_von_Freytag-Loringhoven_and_Morton_Schamberg_-_Google_Art_Project.jpg?20131123203046)
+![](https://upload.wikimedia.org/wikipedia/commons/0/02/Morton_Schamberg_-_%22God%22_By_Baroness_Elsa_von_Freytag-Loringhoven_and_Morton_Schamberg_-_Google_Art_Project.jpg)
 
 God
 

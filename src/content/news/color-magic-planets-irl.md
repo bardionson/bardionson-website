@@ -9,7 +9,7 @@ image: >-
 ---
 I created a generative art piece on Art Blocks called Color Magic Planets based on art made by my daughter called “Playform Multiverse”.
 
-![](https://cent.imgix.net/740e7cf4-7368-434c-81bc-abaf26c79324.jpeg?fit=clip&w=1792&h=946)
+![](https://assets.objkt.media/file/assets-003/QmdZMazKZDsrgvLFT8MWwpbJX8KoKq29e3UPJMJrh1KBCF/artifact)
 
 The Color Magic Planets project sold out on Art Blocks with 256 pieces. [Read more about it](https://bardionson.com/colormagic/).
 

@@ -47,8 +47,6 @@ Technical: art-dcgan a project forked from [DCGAN.torch](https://github.com/soum
 
 ## Collector Bonus Material
 
-[nft_owner_simp art='0x41a322b28d0ff354040e2cbc676f0320d8c8850d/3125']
-
 ![Rejected images from the Art-dcgan model. A few were turned into NFT art](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/trump_3_100_2.jpeg)
 
 In the production of art using artificial intelligence or machine learning techniques most of the manual time is spent selecting images to train the model and then time to curate the best output. Sometimes the model needs to be retrained if the output is not what the artist wants. 
@@ -171,5 +169,3 @@ From this panel I only selected one or two art works to refine. After selecting 
 
 - 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/there-is-nothing-wrong/atFaceDebateHalf0693.jpg)
-
-[/nft_owner_simp]

@@ -13,7 +13,7 @@ I had been creating oscilloscope video art for a few years working on small vide
 
 I don’t know who got interested in first Robbie Barrat’s project Art-DCGAN or Jason Bailey. I did not really understand they were already working together. But the sale of Edmond de Belamy really pushed me to get going on creating Ai art. I spent many hours trying to get Art-DCGAN running on an AWS instance when I had it running I just had to train it on my own images.
 
-![AI Generated Nude Portrait #1](https://ipfs.pixura.io/ipfs/QmYhDkktUpmxJuUSiiCsnyqkyGnFY8No22RuWFd3GHpF3w/ai-generated-nude-portrait-1.png)
+![AI Generated Nude Portrait #1](https://ipfs.filebase.io/ipfs/QmX4ECCmA4HZSPxzsgq8CxwL9abFu7jTBCCersuiC9Pw6d)
 
 [AI Generated Nude Portrait #1](https://superrare.com/artwork/ai-generated-nude-portrait-1-1) – Robbie Barrat
 
@@ -27,7 +27,7 @@ Alien Intelligence – Bard’s first art on SuperRare
 
 Why was he so happy? Well there was a connection between Edward de Belamy by Obvious and art-DCGAN. Robbie had produced models of historical portraits and nudes from the code he modified. Obvious had used these prebuilt models to create that art piece they sold at Christie’s. He wanted artists to use the code to create original work with inputs from their own corpus.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edmond_de_Belamy.png/540px-Edmond_de_Belamy.png)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Edmond_de_Belamy.png)
 
 [Edmond de Belamy](https://en.wikipedia.org/wiki/Edmond_de_Belamy) by Obvious
 

@@ -3,8 +3,6 @@ title: Global Reality
 date: '2021-07-27'
 ---
 
-[ethpress_login_button]
-
 # [Global Reality](https://makersplace.com/digital-media/releases/24849/)
 
 Digital AI video collage
@@ -19,11 +17,9 @@ Digital AI video collage
 
 ### Welcome to Earth art used to train the AI model for Global Reality
 
-[opensea link=https://opensea.io/assets/0x41a322b28d0ff354040e2cbc676f0320d8c8850d/2404]
+[View on OpenSea](https://opensea.io/assets/0x41a322b28d0ff354040e2cbc676f0320d8c8850d/2404)
 
 ## Collector Bonus Material
-
-[nft_owner_simp art='0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756/25208,0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756/48594,0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756/25646']
 
 https://soundcloud.com/bard_ionson/global-reality
 Artist's description of the artwork
@@ -35,5 +31,3 @@ https://vimeo.com/435796803
 Global Reality was sold with an InfiniteObjects frame.
 
 https://vimeo.com/433818756
-
-[/nft_owner_simp]

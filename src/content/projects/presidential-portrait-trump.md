@@ -57,12 +57,6 @@ This Presidential Portrait will appear in Outside Forces 2021 at [Art Enables](h
 
 ## Collector Bonus Material
 
-[ethpress_login_button]
-
-[nft_owner_simp art='0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/25179']
-
-open until purchase
-
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile011.png)
 - 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/tile010.png)
@@ -209,5 +203,3 @@ open until purchase
 
 - 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/presidential-portrait-trump/atFaceDebateHalf0693.jpg)
-
-[/nft_owner_simp]

@@ -7,7 +7,7 @@ date: '2022-01-01'
 
 Digital AI
 
-![](https://ipfs.pixura.io/ipfs/Qmdw8h7yZZmxyd2sjeLMtvmjoruMwHpka2RFs3Xodea9jb/StarkNakedFraud.png)
+![](https://ipfs.filebase.io/ipfs/Qmdw8h7yZZmxyd2sjeLMtvmjoruMwHpka2RFs3Xodea9jb/StarkNakedFraud.png)
 
 ## About
 
@@ -170,5 +170,3 @@ From this panel I only selected one or two art works to refine. After selecting 
 
 - 
 ![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/projects/stark-naked-fraud/atFaceDebateHalf0693.jpg)
-
-[/nft_owner_simp]
