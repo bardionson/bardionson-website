@@ -5,6 +5,14 @@ import { getAllExhibitions } from "@/lib/exhibitions";
 export default function ExhibitionsPage() {
     const modernExhibitions = [
         {
+            title: "./spiral",
+            date: "September 3–11, 2026",
+            venue: "Fondazione Aversano, New York / SuperRare",
+            description: "A SuperRare group exhibition curated by Atay Ilgun and Jonathan Carmel (jonooo). Eleven artists — including Bård Ionson — return to formative works and processes, treating the past as material for what comes next.",
+            link: "/exhibitions/spiral-superrare-2026",
+            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/exhibitions/spiral-superrare-2026/lattice-hero.jpg"
+        },
+        {
             title: "Bones In The Sky — Marfa",
             date: "October 16 – 19, 2025",
             venue: "Art Blocks Weekend, Marfa, Texas",
@@ -71,7 +79,7 @@ export default function ExhibitionsPage() {
         slug?: string;
     };
 
-    const historicExhibitions = getAllExhibitions();
+    const historicExhibitions = getAllExhibitions().filter(ex => ex.slug !== 'spiral-superrare-2026');
 
     // Combine modern and historic
     const exhibitions: Exhibition[] = [
