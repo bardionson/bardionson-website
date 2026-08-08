@@ -9,8 +9,6 @@ image: >-
 ---
 ## ./spiral
 
-![](https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/exhibitions/spiral-superrare-2026/lattice-hero.jpg)
-
 **SuperRare · Fondazione Aversano, New York · September 2026**
 
 Curated by Atay Ilgun and Jonathan Carmel (jonooo)
