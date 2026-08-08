@@ -4,6 +4,8 @@ import { Playfair_Display } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
 import AuthProvider from "@/components/AuthProvider";
+import SearchModal from "@/components/SearchModal";
+import MobileNav from "@/components/MobileNav";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -50,6 +52,10 @@ export default function RootLayout({
                 <Link href="/balloons-in-the-sky" className="hover:text-white transition-colors">Balloons In The Sky</Link>
                 <Link href="/collectors" className="hover:text-white transition-colors text-primary">Collectors Vault</Link>
               </nav>
+              <div className="flex items-center gap-3">
+                <SearchModal />
+                <MobileNav />
+              </div>
             </div>
           </header>
 
