@@ -27,7 +27,6 @@ Fondazione Aversano
 60–62 East 11th Street, 5th Floor, New York, NY
 Public hours: Friday–Thursday, 12–6pm, by appointment.
 
-- RSVP, private view (Sept 2): [superrare.itm.studio/m/spiral-private-preview](https://superrare.itm.studio/m/spiral-private-preview)
 - RSVP, opening (Sept 3): [superrare.itm.studio/m/spiral-public-opening](https://superrare.itm.studio/m/spiral-public-opening)
 - Book a viewing (Sept 4–10): [superrare.itm.studio/m/spiral-public-viewing](https://superrare.itm.studio/m/spiral-public-viewing)
 
