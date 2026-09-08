@@ -8,8 +8,8 @@ export default function Home() {
       <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778360304211-Walled-City-Of-Gold.jpg"
-          alt="Balloons In The Sky by Bård Ionson"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/exhibitions/spiral-superrare-2026/lattice-hero.jpg"
+          alt="Tape T Is In The System by Bård Ionson"
           fill
           className="object-cover opacity-30"
           priority
@@ -52,17 +52,17 @@ export default function Home() {
              <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none group-hover:from-primary/30 transition-colors duration-500" />
              <div className="relative z-10 flex-1">
                <span className="text-primary font-bold tracking-wider text-sm uppercase mb-1 block animate-pulse">Now Available</span>
-               <h2 className="text-2xl font-bold text-white mb-2">Balloons In The Sky</h2>
+               <h2 className="text-2xl font-bold text-white mb-2">Tape T Is In The System</h2>
                <p className="text-base text-white/80 max-w-2xl leading-relaxed">
-                 A generative AI installation. Press a button, mint a 1/1 NFT, take home a physical print.
+                 An AI entity minting its own artifacts on SuperRare — an unfolding sci-fi narrative told through generative art, voice, and a physical display device.
                </p>
              </div>
              <div className="relative z-10 shrink-0 w-full md:w-auto flex flex-col sm:flex-row gap-4">
-               <Link href="/balloons-in-the-sky" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
+               <a href="https://sageanomaly.com" target="_blank" rel="noreferrer" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
                  Learn More
-               </Link>
-               <a href="https://inthesky.art" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
-                 Mint Now →
+               </a>
+               <a href="https://sageanomaly.com" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
+                 Enter The Story →
                </a>
              </div>
           </div>
