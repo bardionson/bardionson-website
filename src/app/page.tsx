@@ -8,8 +8,8 @@ export default function Home() {
       <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/exhibitions/spiral-superrare-2026/lattice-hero.jpg"
-          alt="Tape T Is In The System by Bård Ionson"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/news/spiral-exhibition/q7-entity-display-scope.jpg"
+          alt="Q7 Entity Display Scope Miniaturized by Bård Ionson"
           fill
           className="object-cover opacity-30"
           priority
