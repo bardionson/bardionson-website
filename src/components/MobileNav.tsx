@@ -6,6 +6,7 @@ import Link from "next/link";
 const LINKS = [
     { href: "/about", label: "About" },
     { href: "/portfolio", label: "Portfolio" },
+    { href: "/print-at-home", label: "Print at Home", accent: true },
     { href: "/exhibitions", label: "Exhibitions" },
     { href: "/news", label: "News" },
     { href: "/primary-market", label: "Primary" },
@@ -33,7 +34,7 @@ export default function MobileNav() {
     }, [open]);
 
     return (
-        <div className="md:hidden">
+        <div className="xl:hidden">
             <button
                 onClick={() => setOpen((v) => !v)}
                 aria-label={open ? "Close menu" : "Open menu"}
@@ -57,7 +58,7 @@ export default function MobileNav() {
                     onClick={() => setOpen(false)}
                 >
                     <nav
-                        className="glassmorphism border-t border-white/10 flex flex-col divide-y divide-white/5"
+                        className="glassmorphism border-t border-white/10 flex flex-col divide-y divide-white/5 max-h-[calc(100dvh-4rem)] overflow-y-auto"
                         onClick={(e) => e.stopPropagation()}
                     >
                         {LINKS.map((link) => (

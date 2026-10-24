@@ -69,6 +69,18 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="container mx-auto px-4 py-10 md:py-14" aria-labelledby="print-at-home-title">
+        <div className="glassmorphism rounded-3xl border-primary/30 p-8 md:p-10 flex flex-col md:flex-row md:items-center justify-between gap-8 bg-gradient-to-r from-primary/10 to-transparent">
+          <div className="max-w-2xl">
+            <p className="text-primary text-xs font-semibold uppercase tracking-[0.2em] mb-3">Print at Home · Coming soon</p>
+            <h2 id="print-at-home-title" className="text-3xl md:text-4xl font-bold tracking-tight mb-3">Download art. Print it your way.</h2>
+            <p className="text-white/65 leading-relaxed">Featuring Nudes At The Beach. A limited-time release of digital files to print at home or with your favorite print shop.</p>
+          </div>
+          <Link href="/print-at-home" className="shrink-0 rounded-full bg-primary hover:bg-primary-dark px-6 py-3 font-medium transition-colors text-center">Explore Print at Home →</Link>
+        </div>
+      </section>
+
+
       {/* Featured Works Gallery */}
       <section className="py-20 container mx-auto px-4 border-t border-white/5">
         <div className="flex flex-col md:flex-row justify-between items-end mb-12">

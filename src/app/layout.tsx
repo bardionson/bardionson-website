@@ -42,9 +42,10 @@ export default function RootLayout({
               <Link href="/" className="text-2xl font-serif font-bold tracking-tighter hover:text-primary transition-colors">
                 Bård Ionson
               </Link>
-              <nav className="hidden md:flex items-center space-x-6 text-sm font-medium text-white/70">
+              <nav className="hidden xl:flex items-center space-x-5 text-sm font-medium text-white/70">
                 <Link href="/about" className="hover:text-white transition-colors">About</Link>
                 <Link href="/portfolio" className="hover:text-white transition-colors">Portfolio</Link>
+                <Link href="/print-at-home" className="hover:text-white transition-colors text-primary">Print at Home</Link>
                 <Link href="/exhibitions" className="hover:text-white transition-colors">Exhibitions</Link>
                 <Link href="/news" className="hover:text-white transition-colors">News</Link>
                 <Link href="/primary-market" className="hover:text-white transition-colors">Primary</Link>

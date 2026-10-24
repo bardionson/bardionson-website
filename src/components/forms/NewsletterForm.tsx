@@ -33,6 +33,7 @@ export function NewsletterForm() {
             <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2 max-w-sm w-full mx-auto sm:mx-0 relative">
                 <input
                     type="email"
+                    aria-label="Email address" autoComplete="email" name="email"
                     value={email}
                     onChange={(e) => {
                         setEmail(e.target.value);
@@ -40,7 +41,7 @@ export function NewsletterForm() {
                     }}
                     placeholder="Enter your email"
                     disabled={status === "loading" || status === "success"}
-                    className="bg-black/40 border border-white/10 rounded-full px-6 py-3 text-white focus:outline-none focus:border-primary transition-colors flex-grow disabled:opacity-50"
+                    className="bg-black/40 border border-white/10 rounded-full px-6 py-3 text-white focus:outline-none focus:border-primary transition-colors flex-grow min-w-0 disabled:opacity-50"
                     required
                 />
                 <button
@@ -51,8 +52,8 @@ export function NewsletterForm() {
                     {status === "loading" ? "Subscribing..." : status === "success" ? "Subscribed" : "Subscribe"}
                 </button>
             </form>
-            <p className="text-xs mt-4 h-4 text-center">
-                {status === "success" && <span className="text-green-400">Welcome to the expedition! Check your inbox soon.</span>}
+            <p className="text-xs mt-4 min-h-4 text-center" role="status" aria-live="polite">
+                {status === "success" && <span className="text-green-400">You&apos;re on the studio list. Watch your inbox for updates.</span>}
                 {status === "error" && <span className="text-red-400">Failed to subscribe. Please try again later.</span>}
             </p>
         </>
