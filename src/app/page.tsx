@@ -74,7 +74,7 @@ export default function Home() {
           <div className="max-w-2xl">
             <p className="text-primary text-xs font-semibold uppercase tracking-[0.2em] mb-3">Print at Home · Available now</p>
             <h2 id="print-at-home-title" className="text-3xl md:text-4xl font-bold tracking-tight mb-3">Download art. Print it your way.</h2>
-            <p className="text-white/65 leading-relaxed">Nudes At The Beach · $25 for three high-resolution formats. Download the artwork and print at home or with your favorite print shop.</p>
+            <p className="text-white/65 leading-relaxed">Nudes At The Beach 2 · $25 for three high-resolution formats. Download the artwork and print at home or with your favorite print shop.</p>
           </div>
           <Link href="/print-at-home" className="shrink-0 rounded-full bg-primary hover:bg-primary-dark px-6 py-3 font-medium transition-colors text-center">Explore Print at Home →</Link>
         </div>

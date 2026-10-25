@@ -6,7 +6,7 @@ import { NewsletterForm } from "@/components/forms/NewsletterForm";
 
 export const metadata: Metadata = {
   title: "Print at Home | Bård Ionson",
-  description: "Nudes At The Beach by Bård Ionson. A $25 digital download with square, 16:9, and 4:3 versions to print yourself. Preview the release on Payhip.",
+  description: "Nudes At The Beach 2 by Bård Ionson. A $25 digital download with square, 16:9, and 4:3 versions to print yourself. Preview the release on Payhip.",
 };
 
 const steps = [
@@ -33,10 +33,10 @@ export default function PrintAtHome() {
         <div className="grid lg:grid-cols-2">
           <figure className="bg-black/30 p-5 md:p-8 lg:self-start">
             <Image
-              src="/print-previews/nudes-at-the-beach-square.jpg"
-              alt="Nudes At The Beach by Bård Ionson — square digital print composition"
-              width={1200}
-              height={1200}
+              src="/print-previews/nudes-at-the-beach-2.jpg"
+              alt="Nudes At The Beach 2 by Bård Ionson — square digital print composition"
+              width={1000}
+              height={1000}
               sizes="(max-width: 1024px) 100vw, 560px"
               className="w-full h-auto rounded-xl"
               priority
@@ -45,7 +45,7 @@ export default function PrintAtHome() {
           </figure>
           <div className="p-6 md:p-10 bg-gradient-to-br from-primary/10 to-transparent">
             <span className="inline-block text-primary bg-primary/10 border border-primary/30 rounded-full px-3 py-1 text-xs font-medium mb-5">Available now</span>
-            <h2 id="release-title" className="text-3xl md:text-4xl font-bold tracking-tight mb-5">Nudes At The Beach</h2>
+            <h2 id="release-title" className="text-3xl md:text-4xl font-bold tracking-tight mb-5">Nudes At The Beach 2</h2>
             <p className="text-white/70 leading-relaxed">Jackson Pollock drip painting meets cubism meets Tiffany in the artificial latent space of a remixed Robbie Barrat nude model. Created with machine learning and artificial intelligence.</p>
             <p className="text-white/60 leading-relaxed mt-4">Three compositions, each generated in its own format with the unusual edges intact.</p>
             <dl className="mt-6 divide-y divide-white/10 text-sm">
