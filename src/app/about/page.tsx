@@ -51,6 +51,14 @@ export default function AboutPage() {
                             and spiritual worlds.
                         </p>
                         <p>
+                            His work is held in the permanent collections of the{' '}
+                            <a href="https://www.prnewswire.com/news-releases/bard-ionsons-battledore-enters-bodleian-libraries-weston-library-collection-as-nft--physical-artifact-302374375.html" className="text-primary hover:text-primary-dark underline underline-offset-4 transition-colors">Bodleian Libraries at the University of Oxford</a>, UK,
+                            and the{' '}
+                            <a href="https://www.sovrn.art/collections/fransisco-carolinum/" className="text-primary hover:text-primary-dark underline underline-offset-4 transition-colors">Francisco Carolinum</a> in Linz, Austria.
+                            The Bodleian holds <em>Battledore</em>, a physical artwork and NFT;
+                            Francisco Carolinum holds <em>Alternate Fires</em> from <em>Painting with Fire</em>.
+                        </p>
+                        <p>
                             These strange visions come from an uncommon combination of tools and techniques such as artificial
                             intelligence, GANs, VCRs, CRTs, oscilloscopes, lasers, scanners, photography, smart contracts,
                             blockchains and sound. His collaborative approach between creator and algorithmic systems uses
