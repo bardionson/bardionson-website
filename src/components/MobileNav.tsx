@@ -39,6 +39,7 @@ export default function MobileNav() {
                 onClick={() => setOpen((v) => !v)}
                 aria-label={open ? "Close menu" : "Open menu"}
                 aria-expanded={open}
+                aria-controls="mobile-navigation"
                 className="flex items-center justify-center w-9 h-9 text-white/70 hover:text-white transition-colors"
             >
                 {open ? (
@@ -54,11 +55,13 @@ export default function MobileNav() {
 
             {open && (
                 <div
-                    className="fixed inset-x-0 top-16 bottom-0 z-40 bg-black/60 backdrop-blur-sm"
+                    className="fixed inset-x-0 top-16 z-40 h-[calc(100dvh-4rem)] bg-black/50"
                     onClick={() => setOpen(false)}
                 >
                     <nav
-                        className="glassmorphism border-t border-white/10 flex flex-col divide-y divide-white/5 max-h-[calc(100dvh-4rem)] overflow-y-auto"
+                        id="mobile-navigation"
+                        aria-label="Main navigation"
+                        className="bg-slate-100 text-slate-900 border-t border-slate-200 shadow-2xl flex flex-col divide-y divide-slate-200 max-h-[calc(100dvh-4rem)] overflow-y-auto"
                         onClick={(e) => e.stopPropagation()}
                     >
                         {LINKS.map((link) => (
@@ -66,8 +69,8 @@ export default function MobileNav() {
                                 key={link.href}
                                 href={link.href}
                                 onClick={() => setOpen(false)}
-                                className={`px-6 py-4 text-base font-medium transition-colors ${link.accent ? "text-primary" : "text-white/80"
-                                    } hover:bg-white/5`}
+                                className={`px-6 py-4 text-base font-medium transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-indigo-700 ${link.accent ? "text-indigo-700" : "text-slate-900"
+                                    } hover:bg-white focus-visible:bg-white`}
                             >
                                 {link.label}
                             </Link>
