@@ -15,6 +15,9 @@ export default function PrimaryMarketPage() {
                     <p className="text-xl text-white/70 max-w-2xl mx-auto font-light leading-relaxed">
                         Newly released series and individual works available directly from the artist studio.
                     </p>
+                    <Link href="/collect" className="inline-block mt-5 text-primary underline underline-offset-4">
+                        Browse physical works and print-at-home editions →
+                    </Link>
                 </div>
 
                 {/* Highlighted Release */}

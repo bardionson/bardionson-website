@@ -15,10 +15,31 @@ export default function AboutPage() {
                 <h1 className="text-5xl md:text-6xl font-bold tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-white">
                     Bård Ionson
                 </h1>
-                <p className="text-xl text-white/60 mb-16 font-light">
-                    Exposing Distortions Between Realities — Digital Art
-                </p>
+                <section aria-labelledby="statement" className="mb-10">
+                    <h2 id="statement" className="text-2xl font-bold mt-10 mb-4">Artist statement</h2>
+                    <p className="text-lg leading-relaxed text-white/80">
+                        I photograph animal bones against the sky, then train a machine to imagine what else it might have seen.
+                        Sometimes I take an image the machine gives me and paint it in oil or turn it into a Polaroid.
+                        I’m interested in what happens to a familiar thing as it passes between the physical world, a photograph,
+                        and an artificial one. In my installations, that passage is partly in someone else’s hands.
+                        A visitor watching an endless stream of images presses a button, and the instant they chose becomes
+                        a print they can take home.
+                    </p>
+                </section>
 
+                <section aria-labelledby="bio" className="mb-12">
+                    <h2 id="bio" className="text-2xl font-bold mb-4">Bio</h2>
+                    <p className="text-lg leading-relaxed text-white/80">
+                        Bård Ionson is an artist working with photography, generative systems, and electronic sculpture.
+                        An encounter with one of Nam June Paik’s <em>Internet Dwellers</em> around 2012 drew him toward
+                        installation and oscilloscope art. In 2018 he trained a neural network on images of his own oscilloscope
+                        work and began minting art on the blockchain. His work is held by the{' '}
+                        <a href="https://www.prnewswire.com/news-releases/bard-ionsons-battledore-enters-bodleian-libraries-weston-library-collection-as-nft--physical-artifact-302374375.html" className="underline underline-offset-4">Bodleian Libraries at the University of Oxford</a>,
+                        whose collection includes <em>Battledore</em>, and by the{' '}
+                        <a href="https://www.sovrn.art/collections/fransisco-carolinum/" className="underline underline-offset-4">Francisco Carolinum</a> in Linz, Austria,
+                        which holds <em>Alternate Fires</em> from <em>Painting with Fire</em>.
+                    </p>
+                </section>
                 {/* Hero image */}
                 <div className="glassmorphism rounded-3xl overflow-hidden mb-16 aspect-[4/3] relative">
                     <Image
@@ -34,64 +55,10 @@ export default function AboutPage() {
                 {/* Quote */}
                 <blockquote className="glassmorphism rounded-2xl p-8 mb-12 border-l-4 border-primary">
                     <p className="text-2xl md:text-3xl font-serif text-white/90 italic leading-relaxed">
-                        "You are an artist"
+                        “You are an artist”
                     </p>
                     <footer className="mt-4 text-white/50 text-sm">— Nam June Paik&apos;s Internet Dweller</footer>
                 </blockquote>
-
-                {/* Bio */}
-                <section className="glassmorphism rounded-2xl p-8 mb-12">
-                    <h2 className="text-2xl font-bold mb-6">Artist Bio</h2>
-                    <div className="space-y-5 text-white/70 leading-relaxed text-lg">
-                        <p>
-                            Bård Ionson is a pioneer of crypto and generative art. He first minted on the blockchain in 2018
-                            and has been an OG crypto artist with an extensive catalogue ever since. He is an artist who is
-                            exposing the distortions between realities that exist between worlds — by combining technique and
-                            forces of the world he captures the temporary spaces between the physical, electronic, digital
-                            and spiritual worlds.
-                        </p>
-                        <p>
-                            His work is held in the permanent collections of the{' '}
-                            <a href="https://www.prnewswire.com/news-releases/bard-ionsons-battledore-enters-bodleian-libraries-weston-library-collection-as-nft--physical-artifact-302374375.html" className="text-primary hover:text-primary-dark underline underline-offset-4 transition-colors">Bodleian Libraries at the University of Oxford</a>, UK,
-                            and the{' '}
-                            <a href="https://www.sovrn.art/collections/fransisco-carolinum/" className="text-primary hover:text-primary-dark underline underline-offset-4 transition-colors">Francisco Carolinum</a> in Linz, Austria.
-                            The Bodleian holds <em>Battledore</em>, a physical artwork and NFT;
-                            Francisco Carolinum holds <em>Alternate Fires</em> from <em>Painting with Fire</em>.
-                        </p>
-                        <p>
-                            These strange visions come from an uncommon combination of tools and techniques such as artificial
-                            intelligence, GANs, VCRs, CRTs, oscilloscopes, lasers, scanners, photography, smart contracts,
-                            blockchains and sound. His collaborative approach between creator and algorithmic systems uses
-                            GAN-algorithms to help flesh out small universes across multiple mediums spanning image and
-                            written word — a strange, ultra-expressive tango capitalizing on what AIs do best: generate —
-                            and what humans do: imagine.
-                        </p>
-                        <p>
-                            He has exhibited art in Valencia, Vienna, Brussels, Paris, Denver, Washington DC, Virgin Islands,
-                            Dubai, Riyadh, San Francisco, London, Miami, Italy, Manchester, Essen, Berlin, Lisbon and Marfa.
-                            His collectors have been able to enjoy his art online at SuperRare, Art Blocks, AsyncArt,
-                            and Expanded.art.
-                        </p>
-                    </div>
-                </section>
-
-                {/* Artistic Style */}
-                <section className="glassmorphism rounded-2xl p-8 mb-12">
-                    <h2 className="text-2xl font-bold mb-6">Style</h2>
-                    <div className="space-y-4 text-white/70 leading-relaxed">
-                        <p>
-                            Ionson favors cohesion of color over cohesion of form. Edges blend, objects meld together,
-                            yet subjects remain recognizable. His work explores fighter pilots, aliens, rockets, and
-                            "higher" themes — with recent work focusing deeply on the human soul.
-                        </p>
-                        <p>
-                            The SAGE Anomaly series merges generative artwork with traditional storytelling — a narrative
-                            involving aliens, radar technology, degenerative Alzheimer&apos;s, and a mystery spanning decades.
-                            One work, <em>Representation of the Entity v. 4</em>, resides in the Museum of Crypto Art&apos;s
-                            Genesis Collection.
-                        </p>
-                    </div>
-                </section>
 
                 {/* Credentials */}
                 <section className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-12">

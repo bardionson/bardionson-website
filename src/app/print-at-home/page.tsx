@@ -19,7 +19,7 @@ export default function PrintAtHome() {
   const signupAvailable = Boolean(process.env.RESEND_API_KEY && process.env.RESEND_AUDIENCE_ID);
   return (
     <div className="container mx-auto px-4 py-16 md:py-24 max-w-6xl">
-      <Link href="/" className="text-sm text-white/60 hover:text-white transition-colors">← Back to the studio</Link>
+      <Link href="/collect" className="text-sm text-white/60 hover:text-white transition-colors">← Back to Collect</Link>
       <section className="mt-12 max-w-3xl" aria-labelledby="print-title">
         <p className="text-primary text-sm font-semibold uppercase tracking-[0.2em] mb-5">Digital art. Your space.</p>
         <h1 id="print-title" className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight">Download art.<br /><span className="text-primary">Print it your way.</span></h1>

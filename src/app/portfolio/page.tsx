@@ -90,10 +90,10 @@ export default function PortfolioPage() {
         },
         {
             title: "Fountain Remix",
-            description: "A tribute to Duchamp's Fountain — remixed through the lens of crypto art and generative systems. Available on Fountain.",
-            link: "https://fountain-art.com",
+            description: "A tribute to Duchamp's Fountain — remixed through the lens of crypto art and generative systems. Explore the large-format Polaroid of Fountain #405.",
+            link: "/collect/fountain-405",
             platform: "Fountain",
-            image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/articles/fountain-large-format-polaroid/fountain-0000405.jpg"
+            image: "/collect-art/fountain-digital.jpg"
         }
     ];
 
