@@ -1,3 +1,4 @@
+import { ArtistBio, ArtistStatement } from "@/components/ArtistProfile";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { studioWorks, works } from "./catalog";
@@ -8,7 +9,7 @@ export const metadata: Metadata = { title: "Collect | Bård Ionson", description
 export default function CollectPage() {
   return <div className="collect">
     <header className="collect-head"><h1>Collect</h1>
-      <nav aria-label="Browse the collection"><a href="#physical">Physical works</a><a href="#downloads">Print at Home</a><a href="#studio">In the studio</a></nav>
+      <nav aria-label="Browse the collection"><a href="#physical">Physical works</a><a href="#downloads">Print at Home</a><a href="#studio">In the studio</a><a href="#bio">Artist bio &amp; statement</a></nav>
     </header>
     <section id="physical"><h2>Physical works</h2>
       <div className="work-grid">{works.map(work => <Link key={work.slug} href={`/collect/${work.slug}`} className="work-card">
@@ -25,5 +26,6 @@ export default function CollectPage() {
     <section id="studio"><h2>In the studio</h2><p className="intro">Display objects and video sculptures in development.</p>
       <dl className="studio-list">{studioWorks.map(([title, description]) => <div key={title}><dt>{title}</dt><dd>{description}</dd></div>)}</dl>
     </section>
+    <div className="max-w-3xl"><ArtistBio /><ArtistStatement /></div>
   </div>;
 }
