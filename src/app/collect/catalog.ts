@@ -12,8 +12,13 @@ export const works: Work[] = [
   {
     slug: "faces-in-the-cloud", title: "Faces In The Cloud", medium: "Oil on canvas",
     dimensions: "24 × 24 inches", status: "By inquiry",
+    price: "Asking price $2,400 USD. Shipping quoted separately.",
     story: "I saw this as a place where a neural network’s memories of portraits could mingle. I took the image it generated and painted it in oil on a square canvas. The painting was part of my ARTificial exhibition at Bull Run Library in Manassas in June 2019.",
-    facts: [["Exhibited", "ARTificial, Manassas, Virginia, 2019"]],
+    facts: [
+      ["Included with purchase", "The original oil painting and its associated Codex NFT (record 1748)."],
+      ["Condition", "Premium condition, as described by the artist."],
+      ["Exhibited", "ARTificial, Manassas, Virginia, 2019"]
+    ],
     pictures: [image("faces-exhibition.png", "Faces In The Cloud, installed at the 2019 ARTificial exhibition."), image("faces.webp", "Angled outdoor view of the painting, with light catching the paint surface.")],
     source: "/news/artificiallibrary-html", sourceLabel: "Explore the 2019 exhibition"
   },{
