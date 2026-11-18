@@ -3,12 +3,15 @@ export function ArtistStatement() {
     <section aria-labelledby="statement" className="mb-10">
         <h2 id="statement" className="scroll-mt-24 text-2xl font-bold mt-10 mb-4">Artist statement</h2>
         <p className="text-lg leading-relaxed text-white/80">
-            I photograph animal bones against the sky, then train a machine to imagine what else it might have seen.
-            Sometimes I take an image the machine gives me and paint it in oil or turn it into a Polaroid.
-            I’m interested in what happens to a familiar thing as it passes between the physical world, a photograph,
-            and an artificial one. In my installations, that passage is partly in someone else’s hands.
-            A visitor watching an endless stream of images presses a button, and the instant they chose becomes
-            a print they can take home.
+            I am drawn to the space between things: the familiar and the strange, the physical and the imagined,
+            the moment we see and the one we remember. I use photography, code, generative models, painting, film,
+            and electronic devices to move images between these worlds. With each passage, something changes,
+            and something unexpected comes into view.
+        </p>
+        <p className="mt-4 text-lg leading-relaxed text-white/80">
+            In <em>Balloons In The Sky</em>, created with Jennifer Ionson, photographs become the starting point for
+            a continuously changing landscape. Visitors choose when to stop the flow and capture an image.
+            Their choice is a creative act, a way of finding something that belongs to them within a world of possibilities.
         </p>
     </section>
   );
