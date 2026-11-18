@@ -23,7 +23,7 @@ export const works: Work[] = [
     source: "/news/artificiallibrary-html", sourceLabel: "Explore the 2019 exhibition"
   },{
     slug: "fountain-405", title: "Fountain #405", medium: "Signed large-format Polaroid",
-    dimensions: "22 × 35 inches", status: "Framing in progress", price: "$3,000 USD plus shipping",
+    dimensions: "22 × 35 inches", status: "Framing in progress", price: "$4,000 USD plus shipping",
     story: "Fountain #405 began as one image in a series of 501 works I made with a GAN. Working with SuperSense, I brought it back into the analog world through a large-format Polaroid camera. The age of the film softened the colors. That muted palette belongs to this particular photograph.",
     facts: [["Proposed offering", "Framed, signed Polaroid with the original Fountain #405 NFT. Contact the studio for final bundle and delivery details."]],
     pictures: [image("fountain-polaroid.jpg", "Fountain #405, large-format Polaroid before framing."), image("fountain-digital.jpg", "Fountain #405, original digital work.")],
