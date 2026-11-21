@@ -5,18 +5,19 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
       {/* Hero Section with Background Art */}
-      <section className="relative h-[90vh] flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[90svh] flex flex-col items-center justify-center gap-12 py-16 md:gap-16 md:py-20 overflow-hidden">
         {/* Hero background image */}
         <Image
-          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/news/spiral-exhibition/q7-entity-display-scope.jpg"
-          alt="Q7 Entity Display Scope Miniaturized by Bård Ionson"
+          src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778794988036-Digital-Anomaly.jpg"
+          alt="Balloons In The Sky by Bård and Jennifer Ionson"
           fill
           className="object-cover opacity-30"
+          sizes="100vw"
           priority
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background z-10" />
 
-        <div className="container relative z-20 px-4 flex flex-col items-center text-center pb-56 md:pb-48">
+        <div className="container relative z-20 px-4 flex flex-col items-center text-center">
           <div className="mb-6 font-serif text-3xl md:text-4xl text-primary font-medium tracking-wide">
             Bård Ionson
           </div>
@@ -46,25 +47,26 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Latest Drop Announcement (Overlay) */}
-        <div className="absolute bottom-8 left-0 right-0 z-30 container mx-auto px-4 max-w-6xl">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-8 glassmorphism p-6 md:p-8 rounded-2xl border-2 border-primary/40 relative overflow-hidden group shadow-2xl bg-black/40 backdrop-blur-xl">
-             <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none group-hover:from-primary/30 transition-colors duration-500" />
-             <div className="relative z-10 flex-1">
-               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-1 block animate-pulse">Now Available</span>
-               <h2 className="text-2xl font-bold text-white mb-2">Tape T Is In The System</h2>
-               <p className="text-base text-white/80 max-w-2xl leading-relaxed">
-                 An AI entity minting its own artifacts on SuperRare — an unfolding sci-fi narrative told through generative art, voice, and a physical display device.
-               </p>
-             </div>
-             <div className="relative z-10 shrink-0 w-full md:w-auto flex flex-col sm:flex-row gap-4">
-               <a href="https://sageanomaly.com" target="_blank" rel="noreferrer" className="glassmorphism hover:bg-white/10 text-white px-5 py-2.5 rounded-full font-medium transition-all text-center border border-white/20 text-sm">
-                 Learn More
-               </a>
-               <a href="https://sageanomaly.com" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-5 py-2.5 rounded-full font-medium transition-all text-center hover:scale-105 text-sm shadow-[0_0_15px_rgba(var(--color-primary),0.5)]">
-                 Enter The Story →
-               </a>
-             </div>
+        {/* Featured Award Recognition */}
+        <div className="relative z-30 container mx-auto px-4 max-w-6xl">
+          <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 glassmorphism p-6 md:p-8 rounded-2xl border-2 border-primary/40 relative overflow-hidden shadow-2xl bg-black/40 backdrop-blur-xl" aria-labelledby="balloons-award-title">
+            <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent pointer-events-none" />
+            <div className="relative z-10 flex-1">
+              <p className="text-primary font-bold tracking-wider text-sm uppercase mb-2">.ART Award 2026 · Semi-finalists</p>
+              <h2 id="balloons-award-title" className="text-3xl md:text-4xl font-bold text-white mb-3">Balloons In The Sky</h2>
+              <p className="text-base text-white/80 max-w-2xl leading-relaxed">
+                Bård and Jennifer Ionson are among 63 semi-finalists for the inaugural .ART Award.
+                Discover their generative installation, where a moment in flight becomes a one-of-a-kind artwork.
+              </p>
+            </div>
+            <div className="relative z-10 shrink-0 w-full lg:w-auto flex flex-col sm:flex-row lg:flex-col gap-3">
+              <a href="https://inthesky.art/about" target="_blank" rel="noreferrer" className="bg-primary hover:bg-primary-dark text-white px-6 py-3 rounded-full font-medium transition-colors text-center focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary">
+                Explore Balloons In The Sky
+              </a>
+              <a href="https://award.art" target="_blank" rel="noreferrer" className="glassmorphism hover:bg-white/10 text-white px-6 py-3 rounded-full font-medium transition-colors text-center border border-white/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary">
+                About the .ART Award
+              </a>
+            </div>
           </div>
         </div>
       </section>
