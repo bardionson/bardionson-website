@@ -12,21 +12,21 @@ export default function Home() {
           src="https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/1778794988036-Digital-Anomaly.jpg"
           alt="Balloons In The Sky by Bård and Jennifer Ionson"
           fill
-          className="object-cover opacity-30"
+          className="object-cover opacity-90"
           sizes="100vw"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background z-10" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#050510]/20 via-[#050510]/20 to-[#050510]/80 z-10" />
 
-        <div className="container relative z-20 px-4 flex flex-col items-center text-center">
-          <div className="mb-6 font-serif text-3xl md:text-4xl text-primary font-medium tracking-wide">
+        <div className="container relative z-20 px-4 flex flex-col items-center text-center [text-shadow:0_2px_4px_rgba(0,0,0,0.8)]">
+          <div className="mb-6 font-serif text-3xl md:text-4xl text-indigo-200 font-medium tracking-wide">
             Bård Ionson
           </div>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-r from-white via-white/90 to-white/50">
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter mb-6 text-white">
             Art in the Age of <br />
-            <span className="text-primary-dark">Simulated Reality</span>
+            <span className="text-indigo-200">Simulated Reality</span>
           </h1>
-          <p className="text-lg md:text-xl text-white/60 max-w-2xl mb-10 font-light">
+          <p className="text-lg md:text-xl text-white/90 max-w-2xl mb-10 font-normal">
             <MuseumCollectionCredits includeWorks={false} />{' '}
             Creating art since 2012. Entered the NFT space in 2018 with SuperRare.
             Creator of Color Magic Planets, The 8, and Naked Flames.
