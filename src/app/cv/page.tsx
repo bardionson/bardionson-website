@@ -10,7 +10,7 @@ export default function CVPage() {
 
     const selectedExhibitions = [
         // 2026
-        { year: "2026", title: "Enter Through the Thrift Shop - collaboration with Justin Aversano", venue: "60-62 East 11th Street, New York, November 11-26" },
+        { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, 60-62 East 11th Street, New York, November 11-26" },
         // Current-2025
         { year: "2025", title: "Spam series, From Spam To Slop", venue: "L’avant Galerie Vossen, Paris" },
         { year: "2025", title: "Bones In The Sky", venue: "Art Blocks Weekend, Marfa Texas" },
