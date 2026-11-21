@@ -17,19 +17,30 @@ export function ArtistStatement() {
   );
 }
 
+export function MuseumCollectionCredits({ includeWorks = true }: { includeWorks?: boolean }) {
+  return (
+    <>
+      Bård Ionson’s work is held in the permanent collections of the{' '}
+      <a href="https://www.prnewswire.com/news-releases/bard-ionsons-battledore-enters-bodleian-libraries-weston-library-collection-as-nft--physical-artifact-302374375.html" className="underline underline-offset-4">Bodleian Libraries at the University of Oxford</a>
+      {includeWorks && <> (<em>Battledore</em>)</>} and the{' '}
+      <a href="https://www.sovrn.art/collections/fransisco-carolinum/" className="underline underline-offset-4">Francisco Carolinum Museum</a> in Linz, Austria
+      {includeWorks && <> (<em>Alternate Fires</em>, from <em>Painting with Fire</em>)</>}.
+    </>
+  );
+}
+
 export function ArtistBio() {
   return (
     <section aria-labelledby="bio" className="mb-12">
         <h2 id="bio" className="scroll-mt-24 text-2xl font-bold mb-4">Artist bio</h2>
         <p className="text-lg leading-relaxed text-white/80">
+            <MuseumCollectionCredits />
+        </p>
+        <p className="mt-4 text-lg leading-relaxed text-white/80">
             Born in Denver, Colorado, Bård Ionson works with photography, generative systems, and electronic sculpture.
             An encounter with one of Nam June Paik’s <em>Internet Dwellers</em> around 2012 drew him toward
             installation and oscilloscope art. In 2018 he trained a neural network on images of his own oscilloscope
-            work and began minting art on the blockchain. His work is held by the{' '}
-            <a href="https://www.prnewswire.com/news-releases/bard-ionsons-battledore-enters-bodleian-libraries-weston-library-collection-as-nft--physical-artifact-302374375.html" className="underline underline-offset-4">Bodleian Libraries at the University of Oxford</a>,
-            whose collection includes <em>Battledore</em>, and by the{' '}
-            <a href="https://www.sovrn.art/collections/fransisco-carolinum/" className="underline underline-offset-4">Francisco Carolinum</a> in Linz, Austria,
-            which holds <em>Alternate Fires</em> from <em>Painting with Fire</em>.
+            work and began minting art on the blockchain.
         </p>
     </section>
   );

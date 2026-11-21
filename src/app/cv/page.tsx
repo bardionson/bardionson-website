@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { MuseumCollectionCredits } from "@/components/ArtistProfile";
 
 export default function CVPage() {
     const soloExhibitions = [
@@ -8,6 +9,8 @@ export default function CVPage() {
     ];
 
     const selectedExhibitions = [
+        // 2026
+        { year: "2026", title: "Enter Through the Thrift Shop - collaboration with Justin Aversano", venue: "60-62 East 11th Street, New York, November 11-26" },
         // Current-2025
         { year: "2025", title: "Spam series, From Spam To Slop", venue: "L’avant Galerie Vossen, Paris" },
         { year: "2025", title: "Bones In The Sky", venue: "Art Blocks Weekend, Marfa Texas" },
@@ -104,8 +107,11 @@ export default function CVPage() {
 
                 {/* Bio */}
                 <section className="glassmorphism rounded-2xl p-8 mb-12">
-                    <h2 className="text-2xl font-bold mb-4">Artist Statement</h2>
+                    <h2 className="text-2xl font-bold mb-4">Artist Bio &amp; Statement</h2>
                     <p className="text-white/70 leading-relaxed">
+                        <MuseumCollectionCredits />
+                    </p>
+                    <p className="text-white/70 leading-relaxed mt-4">
                         Creating art since 2012. Bård Ionson is an artist who is exposing the distortions between realities.
                         By combining technique and forces of the world he captures the temporary spaces between the physical,
                         electronic, digital and spiritual worlds. These strange visions come from an uncommon combination of
@@ -118,7 +124,8 @@ export default function CVPage() {
                 <section className="mb-12">
                     <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Permanent Collections</h2>
                     <ul className="space-y-3 list-disc list-inside text-white/70">
-                        <li><strong>Battledore</strong>, Bodleian Library, Oxford</li>
+                        <li><strong>Battledore</strong>, Bodleian Libraries, University of Oxford</li>
+                        <li><strong>Alternate Fires</strong>, from <em>Painting with Fire</em>, Francisco Carolinum Museum, Linz, Austria</li>
                         <li><strong>Representation of the Entity v4</strong>, Museum of CryptoArt, New York</li>
                         <li><strong>Neural Dream Map</strong>, Museum of Crypto Art, Paris</li>
                         <li><strong>Coindrop Still Life</strong>, Museum of Crypto Art, Paris</li>

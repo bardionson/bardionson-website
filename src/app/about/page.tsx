@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "About — Bård Ionson",
-    description: "Bio and artist statement for Bård Ionson, pioneer of crypto and generative art.",
+    description: "Bård Ionson’s work is held by the Bodleian Libraries at the University of Oxford and the Francisco Carolinum Museum. Read his bio and artist statement.",
 };
 
 export default function AboutPage() {
@@ -16,9 +16,9 @@ export default function AboutPage() {
                 <h1 className="text-5xl md:text-6xl font-bold tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-white">
                     Bård Ionson
                 </h1>
-                <ArtistStatement />
-
                 <ArtistBio />
+
+                <ArtistStatement />
                 {/* Hero image */}
                 <div className="glassmorphism rounded-3xl overflow-hidden mb-16 aspect-[4/3] relative">
                     <Image

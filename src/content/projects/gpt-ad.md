@@ -17,7 +17,9 @@ date: '2022-01-01'
 
 ### BEAUTIFUL ART
 
-Bard Ionson is an accomplished artist who has created award winning art exhibited in Paris, NYC, London, Dubai, Riyadh, Lisbon, Washington DC
+Bård Ionson’s work is held in the permanent collections of the Bodleian Libraries at the University of Oxford (*Battledore*) and the Francisco Carolinum Museum in Linz, Austria (*Alternate Fires*, from *Painting with Fire*).
+
+His award-winning art has been exhibited in Paris, New York, London, Dubai, Riyadh, Lisbon, and Washington, DC.
 
 ### DIGITAL OR PHYSICAL PRINTS
 

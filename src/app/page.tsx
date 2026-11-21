@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { MuseumCollectionCredits } from "@/components/ArtistProfile";
 
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
             <span className="text-primary-dark">Simulated Reality</span>
           </h1>
           <p className="text-lg md:text-xl text-white/60 max-w-2xl mb-10 font-light">
+            <MuseumCollectionCredits includeWorks={false} />{' '}
             Creating art since 2012. Entered the NFT space in 2018 with SuperRare.
             Creator of Color Magic Planets, The 8, and Naked Flames.
             Exposing the distortions between realities through AI, GANs, and human perception.
@@ -205,6 +207,9 @@ export default function Home() {
         <div className="max-w-4xl mx-auto glassmorphism rounded-3xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-6">About the Artist</h2>
           <p className="text-white/70 leading-relaxed text-lg">
+            <MuseumCollectionCredits />
+          </p>
+          <p className="text-white/70 leading-relaxed text-lg mt-4">
             Bård Ionson is an artist who is exposing the distortions between realities that exist between worlds.
             By combining technique and forces of the world he captures the temporary spaces between the physical,
             electronic, digital and spiritual worlds. These strange visions come from an uncommon combination of
@@ -269,6 +274,16 @@ export default function Home() {
       <section className="py-20 container mx-auto px-4 border-t border-white/5">
         <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">Permanent Museum Collections</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 max-w-6xl mx-auto">
+          <a href="https://bardionson.com/oxford-university-nft/" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
+            <h3 className="font-bold group-hover:text-primary transition-colors">Bodleian Library</h3>
+            <p className="text-sm text-white/50 mt-1">Oxford University</p>
+            <p className="text-xs text-white/30 mt-1 italic">Battledore</p>
+          </a>
+          <a href="https://x.com/ooeculture/status/2000913855791149466" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
+            <h3 className="font-bold group-hover:text-primary transition-colors">Francisco Carolinum Museum</h3>
+            <p className="text-sm text-white/50 mt-1">Museum, Linz</p>
+            <p className="text-xs text-white/30 mt-1 italic">Alternate Fires (Painting with Fire)</p>
+          </a>
           <a href="https://www.cryptovoxels.com/play?coords=E@148W,125N" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
             <h3 className="font-bold group-hover:text-primary transition-colors">Museum of Crypto Art</h3>
             <p className="text-sm text-white/50 mt-1">Paris MoCA</p>
@@ -280,16 +295,6 @@ export default function Home() {
           <a href="https://www.mocda.org/artists/b%C3%A5rd-ionson" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
             <h3 className="font-bold group-hover:text-primary transition-colors">MoCDA</h3>
             <p className="text-sm text-white/50 mt-1">Museum of Contemporary Digital Art</p>
-          </a>
-          <a href="https://bardionson.com/oxford-university-nft/" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
-            <h3 className="font-bold group-hover:text-primary transition-colors">Bodleian Library</h3>
-            <p className="text-sm text-white/50 mt-1">Oxford University</p>
-            <p className="text-xs text-white/30 mt-1 italic">Battledore</p>
-          </a>
-          <a href="https://x.com/ooeculture/status/2000913855791149466" target="_blank" rel="noreferrer" className="glassmorphism rounded-2xl p-6 text-center hover:border-primary/50 transition-colors group">
-            <h3 className="font-bold group-hover:text-primary transition-colors">Francisco Carolinum</h3>
-            <p className="text-sm text-white/50 mt-1">Museum, Linz</p>
-            <p className="text-xs text-white/30 mt-1 italic">Painting With Fire</p>
           </a>
         </div>
       </section>

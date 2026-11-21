@@ -34,7 +34,7 @@ There was chatter on Twitter about the segment with a few comments by Cozomo de�
 > 
 > — Cozomo de’ Medici (@CozomoMedici) [March 13, 2022](https://twitter.com/CozomoMedici/status/1502827349582049286?ref_src=twsrc%5Etfw)
 
-Bård Ionson is a CryptoArtist who also shows NFT art on [SuperRare](https://superrare.com/bardionson). Find more about Bard on his [website](https://bardionson.com/).
+Bård Ionson’s work is held in the permanent collections of the Bodleian Libraries at the University of Oxford (*Battledore*) and the Francisco Carolinum Museum in Linz, Austria (*Alternate Fires*, from *Painting with Fire*). He also shows NFT art on [SuperRare](https://superrare.com/bardionson). Find more about Bard on his [website](https://bardionson.com/).
 
 ### Share this:
 
