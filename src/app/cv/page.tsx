@@ -1,8 +1,11 @@
-import Link from "next/link";
 import { MuseumCollectionCredits } from "@/components/ArtistProfile";
+
+// Reconciled with the September and October 2026 CV revisions, plus the November exhibition.
+const biography = "Bård Ionson is a generative artist and systems engineer based in Virginia who trains custom AI models on proprietary photography to create continuous latent space video installations. By architecting his own GPU systems and embedding custom Solidity smart contracts into the blockchain, his practice secures automated provenance and places his work within the tradition of algorithmic art and digital preservation.";
 
 export default function CVPage() {
     const soloExhibitions = [
+        { year: "2026", title: "Balloons In The Sky, with Jennifer Ionson", venue: "Presented by HASH Gallery, NFC Summit, Lisbon, Portugal" },
         { year: "2019", title: "ARTificial", venue: "Machine Learning Conference, Chantilly, Va." },
         { year: "2019", title: "Working Together", venue: "ElectroRent product launch, London" },
         { year: "2019", title: "ARTificial", venue: "Bull Run Library, Manassas, Va." },
@@ -11,9 +14,13 @@ export default function CVPage() {
     const selectedExhibitions = [
         // 2026
         { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, 60-62 East 11th Street, New York, November 11-26" },
-        // Current-2025
+        { year: "2026", title: "Tape T Is In The System", venue: "./spiral, SuperRare, Fondazione Aversano, New York" },
+        { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "NFC Summit, Lisbon" },
+        { year: "2026", title: "Throne Of St. Anthony In Space", venue: "Museum Of Lisbon, Lisbon" },
+        // 2025
         { year: "2025", title: "Spam series, From Spam To Slop", venue: "L’avant Galerie Vossen, Paris" },
         { year: "2025", title: "Bones In The Sky", venue: "Art Blocks Weekend, Marfa Texas" },
+        { year: "2025", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Glitch Gallery, Marfa" },
         { year: "2025", title: "Painting With Fire", venue: "Sovrn Pop up gallery Marfa Texas" },
         { year: "2025", title: "Vanishing Of The Genuine: Bone Flag", venue: "Digital Art Prize Arab Bank, Lisbon" },
         { year: "2025", title: "Extinction, Cult Of Crypto Art", venue: "NFC Summit, Lisbon" },
@@ -30,11 +37,11 @@ export default function CVPage() {
         { year: "2023", title: "We're All Gonna..", venue: "For the Culture, ArtPoint, Paris" },
         { year: "2023", title: "Future is Where East & West Touch", venue: "NFT Art Prize, Arab Bank, Lisbon, Portugal" },
         { year: "2023", title: "Tomato McMeme, McDo Meme", venue: "NFT Factory, Paris" },
-        { year: "2023", title: "La Trahison de l’IA (The Treachery of Ai), 100% AI", venue: "*it doesn’t exist, NFT Factory, Paris" },
+        { year: "2023", title: "La Trahison de l’IA (The Treachery of Ai), 100% AI", venue: "NFT Factory, Paris" },
         { year: "2023", title: "Color of Crypto & Freaky Faces", venue: "MoCA Collection, IHAM Gallery, Paris" },
         { year: "2023", title: "The Dance, Ça sent le Crypto-Sapin", venue: "NFT Factory, Paris" },
         { year: "2023", title: "Multiple works", venue: "Historic NFT Fest, Barcelona, Spain" },
-        { year: "2023", title: "Slice of the Pie", venue: "Collab Sebastian Schmieg & Silvio Lorusso DYOR Kunsthalle, Zurich" },
+        { year: "2023", title: "Slice of the Pie", venue: "Sebastian Schmieg & Silvio Lorusso DYOR Kunsthalle, Zurich" },
         // 2022
         { year: "2022", title: "Soul Scroll Installation & California Series", venue: "CADAF Crypto & Digital Art Fair, New York" },
         { year: "2022", title: "Four 3D works", venue: "TechCrunch Disrupt, San Francisco" },
@@ -46,11 +53,11 @@ export default function CVPage() {
         { year: "2022", title: "The HODL Frame", venue: "Icons Of Crypto Art, Dubai, UAE" },
         // 2021
         { year: "2021", title: "Knights of the Apocalypse", venue: "CryptoArt Revolution, Paris" },
-        { year: "2021", title: "Mysterious Value", venue: "Mint Gold Dust, New York" },
+        { year: "2021", title: "Mysterious Value", venue: "Mint Gold Dust Gallery, New York" },
         { year: "2021", title: "Representation of the Entity", venue: "U’R,L Group Exhibition, IRL Art Gallery, Denver" },
         { year: "2021", title: "Presidential Portrait 2017-2021", venue: "Outside Forces, Art Enables, Washington" },
         { year: "2021", title: "Life Is Green & Alien Life Of Venus", venue: "Art for Space, MOCDA, Virtual" },
-        { year: "2021", title: "Eternal Flame, collaboration with Braulio Crespo", venue: "Virgin Islands Jam Fest, St. John, USVI" },
+        { year: "2021", title: "Eternal Flame, collaboration with Braulio Crespo", venue: "Virgin Islands Jam Fest" },
         // 2020
         { year: "2020", title: "Three Little Gods", venue: "Digital Art Month, CADAF, New York" },
         { year: "2020", title: "λίμνη Στύγα", venue: "Museum Of Contemporary Digital Art, Virtual" },
@@ -87,6 +94,11 @@ export default function CVPage() {
         { year: "2020", text: "Episode 34 Bard Ionson, ArtBoxDMV talk radio show, by Jason at WERA, September 24" }
     ];
 
+    const professionalPractice = [
+        { title: "Professional AI Systems Engineer", text: "Inference Infrastructure: Architecting full-stack AI environments. Engineering multi-agent systems and real-time inference pipelines, directly informing the autonomous logic of The Scribe. Specialized in CUDA-based performance tuning and memory management for generative video and language models." },
+        { title: "Corporate Cultural Engagement", text: "Invited contributor to curated corporate art exhibitions, exploring the intersection of industrial AI architecture and aesthetic expression." },
+    ];
+
     return (
         <div className="container mx-auto px-4 py-20 animate-in fade-in slide-in-from-bottom-8 duration-1000">
             <div className="max-w-4xl mx-auto">
@@ -94,7 +106,7 @@ export default function CVPage() {
                     <h1 className="text-5xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-primary to-white">
                         Curriculum Vitae
                     </h1>
-                    <a href="/Bard_Ionson_CV_2025.pdf" target="_blank" rel="noreferrer" className="mt-4 md:mt-0 glassmorphism hover:bg-white/10 text-white px-6 py-2 rounded-full font-medium transition-all text-sm inline-flex items-center gap-2">
+                    <a href="/Bard_Ionson_CV_2026.pdf" target="_blank" rel="noreferrer" className="mt-4 md:mt-0 glassmorphism hover:bg-white/10 text-white px-6 py-2 rounded-full font-medium transition-all text-sm inline-flex items-center gap-2">
                         Download PDF
                     </a>
                 </div>
@@ -112,11 +124,7 @@ export default function CVPage() {
                         <MuseumCollectionCredits />
                     </p>
                     <p className="text-white/70 leading-relaxed mt-4">
-                        Creating art since 2012. Bård Ionson is an artist who is exposing the distortions between realities.
-                        By combining technique and forces of the world he captures the temporary spaces between the physical,
-                        electronic, digital and spiritual worlds. These strange visions come from an uncommon combination of
-                        tools and techniques such as artificial intelligence, GANs, VCRs, CRTs, oscilloscopes, lasers, scanners,
-                        photography, smart contracts, blockchains and sound.
+                        {biography}
                     </p>
                 </section>
 
@@ -126,10 +134,6 @@ export default function CVPage() {
                     <ul className="space-y-3 list-disc list-inside text-white/70">
                         <li><strong>Battledore</strong>, Bodleian Libraries, University of Oxford</li>
                         <li><strong>Alternate Fires</strong>, from <em>Painting with Fire</em>, Francisco Carolinum Museum, Linz, Austria</li>
-                        <li><strong>Representation of the Entity v4</strong>, Museum of CryptoArt, New York</li>
-                        <li><strong>Neural Dream Map</strong>, Museum of Crypto Art, Paris</li>
-                        <li><strong>Coindrop Still Life</strong>, Museum of Crypto Art, Paris</li>
-                        <li><strong>The Color Of Crypto</strong>, Museum of Crypto Art, Paris</li>
                     </ul>
                 </section>
 
@@ -178,6 +182,19 @@ export default function CVPage() {
                     </div>
                 </section>
 
+                {/* Technical Research & Professional Practice */}
+                <section className="mb-12">
+                    <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Technical Research &amp; Professional Practice</h2>
+                    <div className="space-y-6">
+                        {professionalPractice.map((practice) => (
+                            <div key={practice.title}>
+                                <h3 className="font-medium text-white mb-2">{practice.title}</h3>
+                                <p className="text-white/70 leading-relaxed">{practice.text}</p>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+
                 {/* Platforms */}
                 <section className="mb-12">
                     <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Platforms</h2>
@@ -214,7 +231,7 @@ export default function CVPage() {
                 {/* Contact */}
                 <section className="glassmorphism rounded-2xl p-8 text-center">
                     <h2 className="text-2xl font-bold mb-4">Contact</h2>
-                    <p className="text-white/60 mb-2">bard.ionson@gmail.com</p>
+                    <p className="text-white/60 mb-2">Bard@bardIonson.com</p>
                     <p className="text-white/60 mb-4">Bård Ionson • 11151 Valley View Dr #525, Bristow, VA 20136</p>
                     <div className="flex justify-center gap-6">
                         <a href="https://twitter.com/bardionson" target="_blank" rel="noreferrer" className="text-primary hover:text-white transition-colors">Twitter (X)</a>
