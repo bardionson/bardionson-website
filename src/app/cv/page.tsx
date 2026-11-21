@@ -13,7 +13,7 @@ export default function CVPage() {
 
     const selectedExhibitions = [
         // 2026
-        { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, 60-62 East 11th Street, New York, November 11-26" },
+        { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, New York, November 11-26" },
         { year: "2026", title: "Tape T Is In The System", venue: "./spiral, SuperRare, Fondazione Aversano, New York" },
         { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "NFC Summit, Lisbon" },
         { year: "2026", title: "Throne Of St. Anthony In Space", venue: "Museum Of Lisbon, Lisbon" },
