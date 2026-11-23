@@ -124,6 +124,8 @@ def generate(root: Path, output: Path) -> None:
                     line += f', <i>{text(row["work"])}</i>'
             elif name == 'publications':
                 line = text(row['text'])
+                if row.get('url'):
+                    line = f'<link href="{escape(row["url"], quote=True)}" color="#314da5">{line}</link>'
             else:
                 line = f'<i>{text(row["title"])}</i>, {text(row["venue"])}'
             story.append(Paragraph(line, entry))

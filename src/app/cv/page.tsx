@@ -93,6 +93,7 @@ export default function CVPage() {
     const publications = [
         { year: "2025", text: "Collecting Art Onchain, Kate Vass, Anteism, Montreal, featuring Bright Land (2018)" },
         { year: "2025", text: "History Of Bitcoin, Slashdot Effect, Smashtoshi" },
+        { year: "2023", text: "Bard Ionson, artist interview, FOMA Mag, issue 10 (Heavy FOMA), PDF pages 134-135", url: "https://cdnc.heyzine.com/files/uploaded/v2/98b0f82850cbc022b86921b216ee9fd08d7026e5.pdf#page=134" },
         { year: "2022", text: "Crypto Art- Begins, book by Andrea Concas & Eleonora Brizi, Rizzoli, October 18" },
         { year: "2022", text: "Crypto Art Begins: The Marvelous Stories of 50 Crypto Artists, Panelist, CADAF New York, November 12" },
         { year: "2022", text: "D'artiste en difficulté à créateur d'art numérique à succès, Robert Spotlight Livestream, October 14" },
@@ -203,7 +204,11 @@ export default function CVPage() {
                         {publications.map((pub, i) => (
                             <div key={i} className="flex items-start gap-6 py-3 border-b border-white/5">
                                 <span className="text-primary font-mono text-sm w-12 shrink-0">{pub.year}</span>
-                                <p className="text-white/70 text-sm leading-relaxed">{pub.text}</p>
+                                <p className="text-white/70 text-sm leading-relaxed">
+                                    {pub.url ? (
+                                        <a href={pub.url} target="_blank" rel="noreferrer" className="text-primary underline underline-offset-4 hover:text-white">{pub.text}</a>
+                                    ) : pub.text}
+                                </p>
                             </div>
                         ))}
                     </div>
