@@ -1,5 +1,5 @@
 ---
-title: "Bård and Jennifer Ionson Named .ART Award Semi-Finalists"
+title: "Bård and Jennifer Ionson named 2026 .ART Award semifinalists"
 date: "2026-11-19"
 excerpt: "Balloons In The Sky by Bård and Jennifer Ionson is among the 63 semi-finalist entries in the inaugural .ART Award."
 ---
