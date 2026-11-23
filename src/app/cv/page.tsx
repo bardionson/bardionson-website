@@ -91,6 +91,7 @@ export default function CVPage() {
     ];
 
     const publications = [
+        { year: "2025", text: "Collecting Art Onchain, Kate Vass, Anteism, Montreal, featuring Bright Land (2018)" },
         { year: "2025", text: "History Of Bitcoin, Slashdot Effect, Smashtoshi" },
         { year: "2022", text: "Crypto Art- Begins, book by Andrea Concas & Eleonora Brizi, Rizzoli, October 18" },
         { year: "2022", text: "Crypto Art Begins: The Marvelous Stories of 50 Crypto Artists, Panelist, CADAF New York, November 12" },
