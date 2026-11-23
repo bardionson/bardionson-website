@@ -1,5 +1,7 @@
 import { MuseumCollectionCredits } from "@/components/ArtistProfile";
 
+const mailingAddress = "10302 Bristow Center Dr Unit #1011, Bristow, VA 20136, United States";
+
 // Reconciled with the September and October 2026 CV revisions, plus the November exhibition.
 const biography = "Bård Ionson is a generative artist and systems engineer based in Virginia who trains custom AI models on proprietary photography to create continuous latent space video installations. By architecting his own GPU systems and embedding custom Solidity smart contracts into the blockchain, his practice secures automated provenance and places his work within the tradition of algorithmic art and digital preservation.";
 
@@ -256,7 +258,7 @@ export default function CVPage() {
                 <section className="glassmorphism rounded-2xl p-8 text-center">
                     <h2 className="text-2xl font-bold mb-4">Contact</h2>
                     <p className="text-white/60 mb-2">Bard@bardIonson.com</p>
-                    <p className="text-white/60 mb-4">Bård Ionson • 11151 Valley View Dr #525, Bristow, VA 20136</p>
+                    <p className="text-white/60 mb-4">Bård Ionson • {mailingAddress}</p>
                     <div className="flex justify-center gap-6">
                         <a href="https://twitter.com/bardionson" target="_blank" rel="noreferrer" className="text-primary hover:text-white transition-colors">Twitter (X)</a>
                         <a href="https://instagram.com/bardionson" target="_blank" rel="noreferrer" className="text-primary hover:text-white transition-colors">Instagram</a>

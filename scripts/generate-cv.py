@@ -57,6 +57,10 @@ def generate(root: Path, output: Path) -> None:
     if not biography_match:
         raise ValueError('Missing current CV biography')
 
+    address_match = re.search(r'const mailingAddress = "([^"]+)";', source)
+    if not address_match:
+        raise ValueError('Missing current CV mailing address')
+
     def clean(text):
         return text.replace('\u2011', '-').replace('\u2013', '-').replace('\u2014', '-')
     def text(value):
@@ -87,6 +91,7 @@ def generate(root: Path, output: Path) -> None:
     story = [Paragraph('Bård Ionson', title),
              Paragraph('Spiritual - Physical - Digital | GAN AI Art, CryptoArt, Digital &amp; Installation Art', subtitle),
              Paragraph('<link href="https://bardionson.com">BardIonson.com</link> | <link href="mailto:Bard@bardIonson.com">Bard@bardIonson.com</link>', subtitle),
+             Paragraph(text(address_match[1]), subtitle),
              Spacer(1, 12),
              Paragraph('Bård Ionson’s work is held in the permanent collections of the <b>Bodleian Libraries at the University of Oxford</b> (<i>Battledore</i>) and the <b>Francisco Carolinum Museum</b> in Linz, Austria (<i>Alternate Fires</i>, from <i>Painting with Fire</i>).', body),
              Paragraph(text(biography_match[1]), body)]
