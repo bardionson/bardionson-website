@@ -83,9 +83,9 @@ export default function CVPage() {
     ];
 
     const honors = [
-        { year: "2026", text: "Semifinalist, .ART Award, with Jennifer Ionson", work: "" },
+        { year: "2026", text: "Semifinalist, .ART Award, with Jennifer Ionson", work: "Balloons In The Sky", url: "https://balloons.inthesky.art" },
         { year: "2025", text: "Emerging Artist finalist, Arab Bank Switzerland Digital Art Prize", work: "Vanishing of the Genuine: Bone Flag" },
-        { year: "2024", text: "Prize winner, We Love the Art, Optimism", work: "" },
+        { year: "2024", text: "Prize winner (AI category), We Love the Art, Optimism", work: "Spirit Of Fire" },
         { year: "2024", text: "Finalist with Distinction, CONTACT ATTEMPT, Herbert W. Franke Foundation", work: "Arecibo Return" },
         { year: "2023", text: "Finalist, Arab Bank Switzerland NFT Art Prize", work: "Future Is Where East & West Touch" },
     ];
@@ -109,6 +109,7 @@ export default function CVPage() {
     ];
 
     const professionalPractice = [
+        { title: "Digital Art Restoration", text: "Working to restore Async.art and collaborating with Digital Rescue Lab on the preservation of digital art." },
         { title: "Professional AI Systems Engineer", text: "Inference Infrastructure: Architecting full-stack AI environments. Engineering multi-agent systems and real-time inference pipelines, directly informing the autonomous logic of The Scribe. Specialized in CUDA-based performance tuning and memory management for generative video and language models." },
         { title: "Corporate Cultural Engagement", text: "Invited contributor to curated corporate art exhibitions, exploring the intersection of industrial AI architecture and aesthetic expression." },
     ];
@@ -190,7 +191,9 @@ export default function CVPage() {
                             <div key={honor.text} className="flex items-start gap-6 py-3 border-b border-white/5">
                                 <span className="text-primary font-mono text-sm w-16 shrink-0">{honor.year}</span>
                                 <p className="text-white/70 leading-relaxed">
-                                    {honor.text}{honor.work && <>, <em>{honor.work}</em></>}
+                                    {honor.text}{honor.work && <>, {honor.url ? (
+                                        <a href={honor.url} target="_blank" rel="noreferrer" className="text-primary underline underline-offset-4 hover:text-white"><em>{honor.work}</em></a>
+                                    ) : <em>{honor.work}</em>}</>}
                                 </p>
                             </div>
                         ))}

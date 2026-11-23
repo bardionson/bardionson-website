@@ -121,7 +121,10 @@ def generate(root: Path, output: Path) -> None:
             if name == 'honors':
                 line = text(row['text'])
                 if row.get('work'):
-                    line += f', <i>{text(row["work"])}</i>'
+                    work = text(row['work'])
+                    if row.get('url'):
+                        work = f'<link href="{escape(row["url"], quote=True)}" color="#314da5">{work}</link>'
+                    line += f', <i>{work}</i>'
             elif name == 'publications':
                 line = text(row['text'])
                 if row.get('url'):
