@@ -33,14 +33,16 @@ def generate(root: Path, output: Path) -> None:
             raise ValueError(f'Empty CV section: {name}')
         return rows
 
-    # Arial is available on macOS; DejaVu Sans is the portable alternative.
+    # Use available system fonts on macOS, Linux or Windows via WSL.
     font_options = [
         Path('/System/Library/Fonts/Supplemental'),
         Path('/usr/share/fonts/truetype/dejavu'),
+        Path('/mnt/c/Windows/Fonts'),
     ]
     font_files = [
         ('Arial.ttf', 'Arial Bold.ttf', 'Arial Italic.ttf'),
         ('DejaVuSans.ttf', 'DejaVuSans-Bold.ttf', 'DejaVuSans-Oblique.ttf'),
+        ('arial.ttf', 'arialbd.ttf', 'ariali.ttf'),
     ]
     for directory, filenames in zip(font_options, font_files):
         if all((directory / name).exists() for name in filenames):
@@ -100,7 +102,7 @@ def generate(root: Path, output: Path) -> None:
         item = item.replace('<strong>', '<b>').replace('</strong>', '</b>').replace('<em>', '<i>').replace('</em>', '</i>')
         story.append(Paragraph(clean(item), entry))
 
-    for name, label in [('soloExhibitions', 'Solo Exhibitions'), ('selectedExhibitions', 'Selected Exhibitions'), ('publications', 'Selected Publications, Articles, Interviews')]:
+    for name, label in [('soloExhibitions', 'Solo Exhibitions'), ('selectedExhibitions', 'Selected Exhibitions &amp; Screenings'), ('honors', 'Selected Honors'), ('publications', 'Selected Publications, Articles, Interviews')]:
         section_heading = Paragraph(label, heading)
         section_heading.cv_section = label
         story.append(section_heading)
@@ -111,7 +113,11 @@ def generate(root: Path, output: Path) -> None:
                 year_heading.cv_year = row['year']
                 story.append(year_heading)
                 previous_year = row['year']
-            if name == 'publications':
+            if name == 'honors':
+                line = text(row['text'])
+                if row.get('work'):
+                    line += f', <i>{text(row["work"])}</i>'
+            elif name == 'publications':
                 line = text(row['text'])
             else:
                 line = f'<i>{text(row["title"])}</i>, {text(row["venue"])}'

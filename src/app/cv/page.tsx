@@ -12,7 +12,9 @@ export default function CVPage() {
     ];
 
     const selectedExhibitions = [
+        { year: "2026–27", title: "Alternate Fires (from Painting with Fire)", venue: "3 Blockchains, One Collection, Francisco Carolinum, Linz, Austria" },
         // 2026
+        { year: "2026", title: "Arecibo Return", venue: "CONTACT ATTEMPT, Festival der Zukunft, Deutsches Museum, Munich, Germany (July 4)" },
         { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, New York, November 11-26" },
         { year: "2026", title: "Tape T Is In The System", venue: "./spiral, SuperRare, Fondazione Aversano, New York" },
         { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "NFC Summit, Lisbon" },
@@ -27,11 +29,11 @@ export default function CVPage() {
         { year: "2025", title: "Vapors Of Culture", venue: "Oculus Digital Visions, NYC" },
         { year: "2025", title: "California & Vanishing Of The Genuine works", venue: "ArtCrush Gallery, worldwide" },
         // 2024
+        { year: "2024", title: "Arecibo Return", venue: "CONTACT ATTEMPT, Planetarium Hamburg (November 16) and Planetarium Bochum (November 18), Germany" },
         { year: "2024", title: "Life Of Fire", venue: "Imagine Today, MUD Gallery, Shanghai" },
         { year: "2024", title: "Naked Flames, Path To The Present", venue: "Expanded Art Gallery, Berlin, Germany" },
         { year: "2024", title: "Vineyard Mountain, Reimagine Tomorrow", venue: "Expanded Art, Essen, Germany" },
         { year: "2024", title: "Battledore, Alphabets Alive", venue: "Weston Library, University of Oxford, England" },
-        { year: "2024", title: "We Love The Art Optimism award", venue: "We Love The Art" },
         // 2023
         { year: "2023", title: "Hypercubus, Continuum", venue: "Accelerate Art, Barcelona, Spain" },
         { year: "2023", title: "We're All Gonna..", venue: "For the Culture, ArtPoint, Paris" },
@@ -76,6 +78,14 @@ export default function CVPage() {
         { year: "2019", title: "The HODL Frame & Air-Coin-Artdrop", venue: "Rare Art Festival, New York" },
         { year: "2019", title: "Bufficorn", venue: "EthDenver, Denver" },
         { year: "2019", title: "Big Net Of Dreams", venue: "Fight Fear, Tolmezzo, Italy" },
+    ];
+
+    const honors = [
+        { year: "2026", text: "Semifinalist, .ART Award, with Jennifer Ionson", work: "" },
+        { year: "2025", text: "Emerging Artist finalist, Arab Bank Switzerland Digital Art Prize", work: "Vanishing of the Genuine: Bone Flag" },
+        { year: "2024", text: "Prize winner, We Love the Art, Optimism", work: "" },
+        { year: "2024", text: "Finalist with Distinction, CONTACT ATTEMPT, Herbert W. Franke Foundation", work: "Arecibo Return" },
+        { year: "2023", text: "Finalist, Arab Bank Switzerland NFT Art Prize", work: "Future Is Where East & West Touch" },
     ];
 
     const publications = [
@@ -143,7 +153,7 @@ export default function CVPage() {
                     <div className="space-y-4">
                         {soloExhibitions.map((ex, i) => (
                             <div key={i} className="flex items-start gap-6 py-3 border-b border-white/5">
-                                <span className="text-primary font-mono text-sm w-12 shrink-0">{ex.year}</span>
+                                <span className="text-primary font-mono text-sm w-16 shrink-0">{ex.year}</span>
                                 <div>
                                     <p className="font-medium text-white">{ex.title}</p>
                                     <p className="text-sm text-white/50">{ex.venue}</p>
@@ -155,15 +165,29 @@ export default function CVPage() {
 
                 {/* Selected Exhibitions */}
                 <section className="mb-12">
-                    <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Selected Exhibitions</h2>
+                    <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Selected Exhibitions &amp; Screenings</h2>
                     <div className="space-y-4">
                         {selectedExhibitions.map((ex, i) => (
                             <div key={i} className="flex items-start gap-6 py-3 border-b border-white/5">
-                                <span className="text-primary font-mono text-sm w-12 shrink-0">{ex.year}</span>
+                                <span className="text-primary font-mono text-sm w-16 shrink-0">{ex.year}</span>
                                 <div>
                                     <p className="font-medium text-white">{ex.title}</p>
                                     <p className="text-sm text-white/50">{ex.venue}</p>
                                 </div>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+
+                <section className="mb-12">
+                    <h2 className="text-2xl font-bold mb-6 border-b border-white/10 pb-4">Selected Honors</h2>
+                    <div className="space-y-4">
+                        {honors.map((honor) => (
+                            <div key={honor.text} className="flex items-start gap-6 py-3 border-b border-white/5">
+                                <span className="text-primary font-mono text-sm w-16 shrink-0">{honor.year}</span>
+                                <p className="text-white/70 leading-relaxed">
+                                    {honor.text}{honor.work && <>, <em>{honor.work}</em></>}
+                                </p>
                             </div>
                         ))}
                     </div>
