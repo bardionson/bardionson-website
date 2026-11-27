@@ -42,8 +42,8 @@ export default function PortfolioPage() {
         {
             title: "California Collection",
             description: "Summer 2022 — A family trip gathering the vision and vibes of California. The roads, deserts, fields of artichokes, strawberries, chickpeas and vineyards of grapes, the ocean, wild life and the great redwoods. Over 2,000 images feed a StyleGAN2 model. The abundance of open space and nature has eliminated human made objects from the model.",
-            link: "https://makersplace.com/bardionson/gallery/created/california-collection",
-            platform: "MakersPlace",
+            link: "/california",
+            platform: "California series",
             image: "https://fmxqa9jjugng70wj.public.blob.vercel-storage.com/images/art/redwood-forest.jpg"
         },
         {
@@ -152,8 +152,8 @@ export default function PortfolioPage() {
                                 </div>
                                 <span className="inline-block text-xs bg-primary/20 text-primary border border-primary/30 rounded-full px-3 py-1 mb-4">{work.platform}</span>
                                 <p className="text-white/60 mb-6 leading-relaxed">{work.description}</p>
-                                <a href={work.link} target="_blank" rel="noreferrer" className="inline-flex items-center text-primary hover:text-white font-medium pb-1 border-b border-primary/30 hover:border-primary transition-all">
-                                    View Collection →
+                                <a href={work.link} target={work.link.startsWith("/") ? undefined : "_blank"} rel={work.link.startsWith("/") ? undefined : "noreferrer"} className="inline-flex items-center text-primary hover:text-white font-medium pb-1 border-b border-primary/30 hover:border-primary transition-all">
+                                    {work.link === "/california" ? "Explore California" : "View Collection →"}
                                 </a>
                             </div>
                         </div>
