@@ -16,6 +16,7 @@ export default function CVPage() {
     const selectedExhibitions = [
         { year: "2026–27", title: "Alternate Fires (from Painting with Fire)", venue: "3 Blockchains, One Collection, Francisco Carolinum, Linz, Austria" },
         // 2026
+        { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "OCCUPY 2, NODE, Palo Alto, California, November 27–29 and December 18–20" },
         { year: "2026", title: "Arecibo Return", venue: "CONTACT ATTEMPT, Festival der Zukunft, Deutsches Museum, Munich, Germany (July 4)" },
         { year: "2026", title: "Moments Of The Unknown: Future, with Justin Aversano", venue: "Enter Through the Thrift Shop, New York, November 11-26" },
         { year: "2026", title: "Tape T Is In The System", venue: "./spiral, SuperRare, Fondazione Aversano, New York" },

@@ -5,6 +5,14 @@ import { getAllExhibitions } from "@/lib/exhibitions";
 export default function ExhibitionsPage() {
     const modernExhibitions = [
         {
+            title: "Future — OCCUPY 2 at NODE",
+            date: "November 27–29 and December 18–20, 2026",
+            venue: "NODE, Palo Alto, California",
+            description: "Future, a collaboration between Justin Aversano and Bård Ionson, is on view as part of OCCUPY 2 at NODE’s Palo Alto location over two weekends.",
+            link: "/exhibitions/node-occupy-2026",
+            image: "/exhibition-art/node-occupy-future.webp"
+        },
+        {
             title: "./spiral",
             date: "September 3–11, 2026",
             venue: "Fondazione Aversano, New York / SuperRare",
@@ -87,7 +95,7 @@ export default function ExhibitionsPage() {
         slug?: string;
     };
 
-    const historicExhibitions = getAllExhibitions().filter(ex => !['spiral-superrare-2026', 'balloons-in-the-sky-lisbon-2026'].includes(ex.slug));
+    const historicExhibitions = getAllExhibitions().filter(ex => !['node-occupy-2026', 'spiral-superrare-2026', 'balloons-in-the-sky-lisbon-2026'].includes(ex.slug));
 
     // Combine modern and historic
     const exhibitions: Exhibition[] = [
@@ -143,13 +151,13 @@ export default function ExhibitionsPage() {
                                             </div>
                                         )
                                     )}
-                                    <div className="flex-1">
+                                    <div className="w-full md:w-auto flex-1 min-w-0">
                                         <div className="flex flex-col md:items-start justify-between gap-2 mb-4">
                                             <h2 className="text-2xl font-bold group-hover:text-primary transition-colors pr-4">{ex.title}</h2>
-                                            <span className="text-sm text-primary/80 whitespace-nowrap">{ex.date}</span>
+                                            <span className="text-sm text-primary/80">{ex.date}</span>
                                         </div>
                                         {!ex.isHistoric && <p className="text-sm text-primary/80 mb-3">{ex.venue}</p>}
-                                        <p className="text-white/60 leading-relaxed mb-4">{ex.description}</p>
+                                        <p className="text-white/60 leading-relaxed mb-4 break-words">{ex.description}</p>
 
                                         {/* Dynamic Route vs Traditional External Link routing */}
                                         {ex.link ? (
